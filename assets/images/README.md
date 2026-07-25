@@ -1,24 +1,23 @@
-# Future page photography
+# MA2K Page Hero Images
 
-The website currently renders no images and contains no visible image placeholders.
+Upload the three folders below to `assets/images/`.
 
-When real MA2K photography is ready, use no more than 3–4 images on any page. Create a folder named after the page, for example:
+Every page uses exactly one faded photograph in its top hero/banner area. Images are not used behind the white body content.
 
-```text
-assets/images/home/
-assets/images/screen-printing/
-assets/images/embroidery/
-assets/images/work/
-assets/images/about/
-```
+## Page assignments
 
-Recommended naming:
+- Home: `hero/hero-main.jpg`
+- Solutions: `hero/hero-shop.jpg`
+- Screen Printing: `services/screen-printing.jpg`
+- Embroidery: `services/embroidery.jpg`
+- Heat Press & Vinyl: `services/heat-press.jpg`
+- Signs & Banners: `services/banners.jpg`
+- Promotional Products: `services/promotional-products.jpg`
+- Process: `process/production.jpg`
+- Work: `process/quality-control.jpg`
+- About: `process/consultation.jpg`
+- Contact: `process/packaging.jpg`
+- Start Project and Custom Order: `process/artwork.jpg`
+- Testimonials: `hero/hero-embroidery.jpg`
 
-```text
-hero.jpg
-detail-01.jpg
-detail-02.jpg
-wide.jpg
-```
-
-Use JPG for photography and PNG only when transparency is required. Images are not loaded automatically; add them deliberately to the desired page using the `.future-media` class documented in the main README.
+The remaining named images can be kept for future use without appearing automatically.

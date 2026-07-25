@@ -41,88 +41,23 @@
 @media(max-width:700px){.future-media{grid-template-columns:1fr}.future-media img:first-child:last-child{grid-column:auto;aspect-ratio:4/3}}
 
 
-/* PHOTO-BACKDROP SYSTEM — only hero, services, and process folders are required. */
-body{--page-photo:none;--section-photo:none;--detail-photo:none}
-body[data-page="home"]{--page-photo:url('../images/hero/hero-main.jpg');--section-photo:url('../images/services/screen-printing.jpg');--detail-photo:url('../images/process/production.jpg')}
-body[data-page="services"]{--page-photo:url('../images/hero/hero-shop.jpg');--section-photo:url('../images/services/promotional-products.jpg');--detail-photo:url('../images/process/consultation.jpg')}
-body[data-bg="screen-printing"]{--page-photo:url('../images/services/screen-printing.jpg');--section-photo:url('../images/process/production.jpg')}
-body[data-bg="embroidery"]{--page-photo:url('../images/services/embroidery.jpg');--section-photo:url('../images/process/quality-control.jpg')}
-body[data-bg="heat"]{--page-photo:url('../images/services/heat-press.jpg');--section-photo:url('../images/services/vinyl.jpg')}
-body[data-bg="signs"]{--page-photo:url('../images/services/banners.jpg');--section-photo:url('../images/process/artwork.jpg')}
-body[data-bg="promo"]{--page-photo:url('../images/services/promotional-products.jpg');--section-photo:url('../images/process/packaging.jpg')}
-body[data-page="process"]{--page-photo:url('../images/process/production.jpg');--section-photo:url('../images/process/consultation.jpg');--detail-photo:url('../images/process/packaging.jpg')}
-body[data-page="work"]{--page-photo:url('../images/hero/hero-shop.jpg');--section-photo:url('../images/services/screen-printing.jpg')}
-body[data-page="about"]{--page-photo:url('../images/hero/hero-shop.jpg');--section-photo:url('../images/process/consultation.jpg')}
-body[data-page="contact"]{--page-photo:url('../images/hero/hero-main.jpg');--section-photo:url('../images/process/consultation.jpg')}
-body[data-page="order"]{--page-photo:url('../images/hero/hero-heatpress.jpg');--section-photo:url('../images/process/artwork.jpg')}
-body[data-page="testimonials"]{--page-photo:url('../images/hero/hero-embroidery.jpg');--section-photo:url('../images/process/quality-control.jpg')}
-.page-hero,.hero{isolation:isolate;position:relative;background-image:linear-gradient(90deg,rgba(245,243,238,.98) 0%,rgba(245,243,238,.94) 46%,rgba(245,243,238,.66) 74%,rgba(245,243,238,.38) 100%),var(--page-photo);background-position:center;background-size:cover}
-.page-hero:before,.hero:before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(245,243,238,.22),rgba(245,243,238,.76));pointer-events:none}
-.chapter.photo-wash,.about-story-section{position:relative;isolation:isolate;background-image:linear-gradient(90deg,rgba(245,243,238,.96),rgba(245,243,238,.88)),var(--section-photo);background-size:cover;background-position:center}
-.about-location{position:relative;isolation:isolate}
-.about-location:before{content:"";position:absolute;inset:-34px;border-radius:42px;z-index:-1;background-image:linear-gradient(90deg,rgba(245,243,238,.80),rgba(245,243,238,.95)),var(--section-photo);background-size:cover;background-position:center;opacity:.92}
+/* PAGE HERO BACKGROUNDS — exactly one faded image in the top banner of every page. */
+body{--page-photo:none}
+body[data-page="home"]{--page-photo:url('../images/hero/hero-main.jpg')}
+body[data-page="services"]{--page-photo:url('../images/hero/hero-shop.jpg')}
+body[data-bg="screen-printing"]{--page-photo:url('../images/services/screen-printing.jpg')}
+body[data-bg="embroidery"]{--page-photo:url('../images/services/embroidery.jpg')}
+body[data-bg="heat"]{--page-photo:url('../images/services/heat-press.jpg')}
+body[data-bg="signs"]{--page-photo:url('../images/services/banners.jpg')}
+body[data-bg="promo"]{--page-photo:url('../images/services/promotional-products.jpg')}
+body[data-page="process"]{--page-photo:url('../images/process/production.jpg')}
+body[data-page="work"]{--page-photo:url('../images/process/quality-control.jpg')}
+body[data-page="about"]{--page-photo:url('../images/process/consultation.jpg')}
+body[data-page="contact"]{--page-photo:url('../images/process/packaging.jpg')}
+body[data-page="order"]{--page-photo:url('../images/process/artwork.jpg')}
+body[data-page="testimonials"]{--page-photo:url('../images/hero/hero-embroidery.jpg')}
+.page-hero,.hero{isolation:isolate;position:relative;background-image:linear-gradient(90deg,rgba(245,243,238,.98) 0%,rgba(245,243,238,.94) 43%,rgba(245,243,238,.68) 72%,rgba(245,243,238,.42) 100%),var(--page-photo);background-position:center;background-size:cover;background-repeat:no-repeat}
+.page-hero:before,.hero:before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(245,243,238,.12),rgba(245,243,238,.72));pointer-events:none}
 .about-story-grid{display:grid;grid-template-columns:1.35fr .65fr;gap:18px;margin-bottom:80px}.about-lead h2,.about-location .showcase-copy h2{font:700 clamp(42px,5vw,76px)/.96 'Manrope';letter-spacing:-.06em;margin:10px 0 28px}.about-lead>p:last-child{font-size:18px;max-width:780px}.about-facts{align-self:start}.about-location{margin-top:20px}.nav-links a[href="contact.html"]:after{background:linear-gradient(90deg,var(--red),var(--yellow),var(--green))}
-/* Add image-backed wash to the first major white content section on each page. */
-main>.chapter:first-of-type{position:relative;isolation:isolate;background-image:linear-gradient(90deg,rgba(245,243,238,.97),rgba(245,243,238,.90)),var(--section-photo);background-size:cover;background-position:center}
-@media(max-width:900px){.page-hero,.hero{background-image:linear-gradient(180deg,rgba(245,243,238,.96),rgba(245,243,238,.76)),var(--page-photo);background-position:center}.about-story-grid{grid-template-columns:1fr}.about-location:before{inset:-18px}.nav-links{max-height:calc(100vh - 105px);overflow:auto}.nav-links a{font-size:22px}}
+@media(max-width:900px){.page-hero,.hero{background-image:linear-gradient(180deg,rgba(245,243,238,.96),rgba(245,243,238,.74)),var(--page-photo);background-position:center}.about-story-grid{grid-template-columns:1fr}.nav-links{max-height:calc(100vh - 105px);overflow:auto}.nav-links a{font-size:22px}}
 @media(max-width:700px){.about-story-grid{margin-bottom:45px}.about-location .showcase-copy h2,.about-lead h2{font-size:39px}.page-hero,.hero{background-position:center top}}
-
-/* FULL-PAGE PHOTO BACKDROPS — July 2026 correction.
-   Each page uses the original uploaded hero/services/process filename assigned above. */
-body{
-  background-color:var(--paper);
-  background-image:
-    linear-gradient(180deg,rgba(245,243,238,.90),rgba(245,243,238,.78)),
-    var(--page-photo);
-  background-size:cover;
-  background-position:center top;
-  background-attachment:fixed;
-  background-repeat:no-repeat;
-}
-main{background:transparent}
-
-/* Carry the mapped photo through every light content area, rather than only the first chapter. */
-main>.chapter:not(.dark-panel),
-main>.about-story-section,
-main>.quote-band,
-main>.builder-section{
-  position:relative;
-  isolation:isolate;
-  background-color:transparent;
-  background-image:
-    linear-gradient(90deg,rgba(245,243,238,.965),rgba(245,243,238,.89)),
-    var(--section-photo);
-  background-size:cover;
-  background-position:center;
-  background-repeat:no-repeat;
-}
-main>.chapter:not(.dark-panel):nth-of-type(even),
-main>.about-story-section:nth-of-type(even){
-  background-image:
-    linear-gradient(270deg,rgba(245,243,238,.965),rgba(245,243,238,.89)),
-    var(--detail-photo, var(--section-photo));
-}
-
-/* Keep individual white content surfaces crisp while still revealing the photograph around them. */
-.paper-card,.showcase-copy,.builder-group,.project-summary,.form-card{
-  background:rgba(255,255,255,.88);
-  backdrop-filter:blur(16px);
-  -webkit-backdrop-filter:blur(16px);
-}
-
-/* Original filename correction for order pages. */
-body[data-page="order"]{
-  --page-photo:url('../images/hero/hero-heatpress.jpg');
-  --section-photo:url('../images/process/artwork.jpg');
-  --detail-photo:url('../images/process/packaging.jpg');
-}
-
-@media(max-width:900px){
-  body{background-attachment:scroll;background-position:center top}
-  main>.chapter:not(.dark-panel),main>.about-story-section,main>.quote-band,main>.builder-section{
-    background-image:
-      linear-gradient(180deg,rgba(245,243,238,.965),rgba(245,243,238,.88)),
-      var(--section-photo);
-    background-position:center;
-  }
-}
