@@ -1,82 +1,15 @@
 (() => {
-  const config = window.MA2K_CONFIG || {};
-  document.querySelectorAll('[data-year]').forEach(el => el.textContent = new Date().getFullYear());
-
-  const toggle = document.querySelector('[data-menu-toggle]');
-  const nav = document.querySelector('[data-nav]');
-  if (toggle && nav) toggle.addEventListener('click', () => { const open = nav.classList.toggle('open'); toggle.setAttribute('aria-expanded', String(open)); document.body.classList.toggle('menu-open', open); });
-
-
-  const cursor = document.querySelector('[data-ink-cursor]');
-  if (cursor && window.matchMedia('(pointer:fine)').matches) {
-    document.body.classList.add('has-pointer');
-    window.addEventListener('mousemove', e => { cursor.style.left = `${e.clientX}px`; cursor.style.top = `${e.clientY}px`; });
-    document.querySelectorAll('a,button').forEach(el => {
-      el.addEventListener('mouseenter', () => { cursor.style.width = '42px'; cursor.style.height = '42px'; });
-      el.addEventListener('mouseleave', () => { cursor.style.width = '18px'; cursor.style.height = '18px'; });
-    });
-  }
-
-  document.querySelectorAll('.service-row').forEach(row => {
-    row.addEventListener('mousemove', e => {
-      const r = row.getBoundingClientRect();
-      row.style.setProperty('--mx', `${e.clientX-r.left}px`);
-      row.style.setProperty('--my', `${e.clientY-r.top}px`);
-    });
-  });
-
-  const observer = new IntersectionObserver(entries => entries.forEach(entry => { if (entry.isIntersecting) entry.target.classList.add('visible'); }), { threshold: .12 });
-  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
-
-  document.querySelectorAll('[data-filters] button').forEach(btn => btn.addEventListener('click', () => {
-    document.querySelectorAll('[data-filters] button').forEach(b => b.classList.remove('active')); btn.classList.add('active');
-    const filter = btn.dataset.filter;
-    document.querySelectorAll('.gallery-item').forEach(item => item.hidden = filter !== 'all' && item.dataset.category !== filter);
-  }));
-
-  const postForm = async (type, payload) => {
-    const endpoint = config.integrations?.forms?.endpoint;
-    if (!endpoint) return { ok: true, local: true };
-    const res = await fetch(endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ type, ...payload }) });
-    if (!res.ok) throw new Error('Submission failed');
-    return res.json();
-  };
-
-  const bindBasicForm = (selector, type, message) => {
-    const form = document.querySelector(selector); if (!form) return;
-    form.addEventListener('submit', async e => { e.preventDefault(); const status = form.querySelector('[data-form-status]'); status.textContent = 'Sending…';
-      const data = Object.fromEntries(new FormData(form).entries());
-      try { await postForm(type, data); status.textContent = message; form.reset(); } catch { status.textContent = 'We could not send this online. Please call 508-958-9587 or email ma2kimpression@gmail.com.'; }
-    });
-  };
-  bindBasicForm('[data-contact-form]', 'contact', 'Thanks — your message has been recorded. MA2K will follow up using the contact details provided.');
-
-  const orderForm = document.querySelector('[data-order-form]');
-  if (orderForm) {
-    const pf = config.integrations?.printflow;
-    const frame = document.querySelector('[data-printflow-frame]'); const shell = document.querySelector('#printflow-embed'); const statusLabel = document.querySelector('[data-integration-status]');
-    if (pf?.enabled && pf.embedUrl && frame && shell) { frame.src = pf.embedUrl; shell.hidden = false; orderForm.hidden = true; if (statusLabel) statusLabel.textContent = 'Printflow connected'; }
-    const urlService = new URLSearchParams(location.search).get('service');
-    if (urlService) { const radio = [...orderForm.querySelectorAll('[name="service"]')].find(r => r.value.toLowerCase().replaceAll(' ', '-') === urlService); if (radio) radio.checked = true; }
-    orderForm.addEventListener('submit', async e => { e.preventDefault(); const formData = new FormData(orderForm); const file = formData.get('artwork'); const data = Object.fromEntries(formData.entries()); data.artwork = file?.name || '';
-      const status = orderForm.querySelector('[data-form-status]'); status.textContent = 'Submitting…';
-      try { await postForm('custom-order', data); localStorage.setItem('ma2k-last-order', JSON.stringify({ ...data, submittedAt: new Date().toISOString() })); status.textContent = 'Your request has been recorded. MA2K will review the details and contact you before anything moves into production.'; orderForm.reset(); } catch { status.textContent = 'Online submission is unavailable. Please email the project details to ma2kimpression@gmail.com.'; }
-    });
-  }
-
-  const testimonialForm = document.querySelector('[data-testimonial-form]');
-  const testimonialList = document.querySelector('[data-testimonial-list]');
-  const renderTestimonials = () => {
-    if (!testimonialList) return;
-    const approved = JSON.parse(localStorage.getItem('ma2k-approved-testimonials') || '[]');
-    if (!approved.length) return;
-    testimonialList.innerHTML = approved.map(t => `<article class="testimonial-card"><div class="stars">${'★'.repeat(Number(t.rating || 5))}</div><blockquote>“${escapeHtml(t.message)}”</blockquote><strong>${escapeHtml(t.name)}</strong><span>${escapeHtml(t.organization || t.service || '')}</span></article>`).join('');
-  };
-  const escapeHtml = value => String(value || '').replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
-  renderTestimonials();
-  if (testimonialForm) testimonialForm.addEventListener('submit', async e => { e.preventDefault(); const status = testimonialForm.querySelector('[data-form-status]'); const data = Object.fromEntries(new FormData(testimonialForm).entries()); status.textContent = 'Submitting…';
-    try { const endpoint = config.integrations?.testimonials?.endpoint; if (endpoint) { const res = await fetch(endpoint, { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(data) }); if (!res.ok) throw new Error(); } else { const pending = JSON.parse(localStorage.getItem('ma2k-pending-testimonials') || '[]'); pending.push({ ...data, id: crypto.randomUUID?.() || Date.now(), status:'pending', submittedAt:new Date().toISOString() }); localStorage.setItem('ma2k-pending-testimonials', JSON.stringify(pending)); }
-      status.textContent = 'Thank you. Your testimonial has been submitted for review.'; testimonialForm.reset();
-    } catch { status.textContent = 'Submission failed. Please send your testimonial to ma2kimpression@gmail.com.'; }
-  });
+const config=window.MA2K_CONFIG||{};document.querySelectorAll('[data-year]').forEach(e=>e.textContent=new Date().getFullYear());
+const menu=document.querySelector('[data-menu-toggle]'),nav=document.querySelector('[data-nav]');if(menu&&nav)menu.addEventListener('click',()=>{const open=nav.classList.toggle('open');menu.setAttribute('aria-expanded',String(open));document.body.classList.toggle('menu-open',open)});
+const languageButtons=[...document.querySelectorAll('[data-language]')];
+const applyLanguage=(lang)=>{document.documentElement.lang=lang;localStorage.setItem('ma2k-language',lang);document.querySelectorAll('[data-en][data-fr]').forEach(el=>{el.innerHTML=el.dataset[lang]});document.querySelectorAll('[data-en-placeholder][data-fr-placeholder]').forEach(el=>el.placeholder=el.dataset[`${lang}Placeholder`]);languageButtons.forEach(btn=>btn.setAttribute('aria-pressed',String(btn.dataset.language===lang)));};
+languageButtons.forEach(btn=>btn.addEventListener('click',()=>applyLanguage(btn.dataset.language)));applyLanguage(localStorage.getItem('ma2k-language')||((navigator.language||'').toLowerCase().startsWith('fr')?'fr':'en'));
+const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible')}),{threshold:.12});document.querySelectorAll('.reveal').forEach(e=>observer.observe(e));
+document.querySelectorAll('[data-filters] button').forEach(btn=>btn.addEventListener('click',()=>{document.querySelectorAll('[data-filters] button').forEach(b=>b.classList.remove('active'));btn.classList.add('active');const filter=btn.dataset.filter;document.querySelectorAll('.gallery-item').forEach(item=>item.hidden=filter!=='all'&&item.dataset.category!==filter)}));
+const postForm=async(type,payload)=>{const endpoint=config.integrations?.forms?.endpoint;if(!endpoint)return{ok:true,local:true};const res=await fetch(endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({type,...payload})});if(!res.ok)throw new Error('Submission failed');return res.json()};
+const formMessage=(en,fr)=>document.documentElement.lang==='fr'?fr:en;
+const bindBasicForm=(selector,type)=>{const form=document.querySelector(selector);if(!form)return;form.addEventListener('submit',async e=>{e.preventDefault();const status=form.querySelector('[data-form-status]');status.textContent=formMessage('Sending…','Envoi…');const data=Object.fromEntries(new FormData(form).entries());try{await postForm(type,data);status.textContent=formMessage('Thank you. MA2K will follow up using the contact details provided.','Merci. MA2K vous répondra en utilisant les coordonnées fournies.');form.reset()}catch{status.textContent=formMessage('We could not send this online. Please call 508-958-9587 or email ma2kimpression@gmail.com.','L’envoi en ligne a échoué. Appelez le 508-958-9587 ou écrivez à ma2kimpression@gmail.com.')}})};bindBasicForm('[data-contact-form]','contact');
+const orderForm=document.querySelector('[data-order-form]');if(orderForm){const pf=config.integrations?.printflow,frame=document.querySelector('[data-printflow-frame]'),shell=document.querySelector('#printflow-embed'),label=document.querySelector('[data-integration-status]');if(pf?.enabled&&pf.embedUrl&&frame&&shell){frame.src=pf.embedUrl;shell.hidden=false;orderForm.hidden=true;if(label)label.textContent='Printflow connected'}const requested=new URLSearchParams(location.search).get('service');if(requested){const normalized=requested.replaceAll('-',' ');[...orderForm.querySelectorAll('[name="service"]')].forEach(r=>{if(r.value.toLowerCase().includes(normalized.split(' ')[0]))r.checked=true})}orderForm.addEventListener('submit',async e=>{e.preventDefault();const fd=new FormData(orderForm),file=fd.get('artwork'),data=Object.fromEntries(fd.entries());data.artwork=file?.name||'';const status=orderForm.querySelector('[data-form-status]');status.textContent=formMessage('Submitting…','Envoi…');try{await postForm('custom-order',data);localStorage.setItem('ma2k-last-order',JSON.stringify({...data,submittedAt:new Date().toISOString()}));status.textContent=formMessage('Your request has been recorded. MA2K will review it and contact you before production.','Votre demande a été enregistrée. MA2K l’examinera et vous contactera avant la production.');orderForm.reset()}catch{status.textContent=formMessage('Online submission is unavailable. Please email ma2kimpression@gmail.com.','L’envoi en ligne est indisponible. Écrivez à ma2kimpression@gmail.com.')}})}
+const testimonialForm=document.querySelector('[data-testimonial-form]'),testimonialList=document.querySelector('[data-testimonial-list]');const escapeHtml=v=>String(v||'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));if(testimonialList){const approved=JSON.parse(localStorage.getItem('ma2k-approved-testimonials')||'[]');if(approved.length)testimonialList.innerHTML=approved.map(t=>`<article class="testimonial-card"><div>${'★'.repeat(Number(t.rating||5))}</div><blockquote>“${escapeHtml(t.message)}”</blockquote><strong>${escapeHtml(t.name)}</strong><p>${escapeHtml(t.organization||t.service||'')}</p></article>`).join('')}
+if(testimonialForm)testimonialForm.addEventListener('submit',async e=>{e.preventDefault();const status=testimonialForm.querySelector('[data-form-status]'),data=Object.fromEntries(new FormData(testimonialForm).entries());status.textContent=formMessage('Submitting…','Envoi…');try{const endpoint=config.integrations?.testimonials?.endpoint;if(endpoint){const res=await fetch(endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});if(!res.ok)throw new Error()}else{const pending=JSON.parse(localStorage.getItem('ma2k-pending-testimonials')||'[]');pending.push({...data,id:crypto.randomUUID?.()||Date.now(),status:'pending',submittedAt:new Date().toISOString()});localStorage.setItem('ma2k-pending-testimonials',JSON.stringify(pending))}status.textContent=formMessage('Thank you. Your testimonial has been submitted for review.','Merci. Votre témoignage a été soumis pour vérification.');testimonialForm.reset()}catch{status.textContent=formMessage('Submission failed. Please email ma2kimpression@gmail.com.','L’envoi a échoué. Écrivez à ma2kimpression@gmail.com.')}});
 })();
