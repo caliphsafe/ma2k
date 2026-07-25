@@ -29,3 +29,13 @@ prefills();
 document.querySelectorAll('form[data-demo-form]').forEach(form=>form.addEventListener('submit',e=>{e.preventDefault();const status=form.querySelector('.form-status');if(status)status.textContent=translations[lang].form_sent;if(form.id==='testimonial-form'){const entries=JSON.parse(localStorage.getItem('ma2k-testimonials')||'[]');entries.push(Object.fromEntries(new FormData(form)));localStorage.setItem('ma2k-testimonials',JSON.stringify(entries))}if(form.id==='order-form'){project={...project,...Object.fromEntries(new FormData(form))};saveProject()}form.reset()}));
 const embed=document.querySelector('[data-printflow]');if(embed&&MA2K_CONFIG.printflow.enabled&&MA2K_CONFIG.printflow.embedUrl){embed.innerHTML=`<iframe src="${MA2K_CONFIG.printflow.embedUrl}" title="Printflow custom order" style="width:100%;min-height:900px;border:0;border-radius:24px"></iframe>`}
 applyLanguage();renderSummary();
+
+
+// Photo-library fallbacks: intentional placeholders until JPGs are uploaded.
+document.querySelectorAll('.photo-frame img').forEach((img)=>{
+  const frame=img.closest('.photo-frame');
+  const missing=()=>frame&&frame.classList.add('is-missing');
+  img.addEventListener('error',missing);
+  img.addEventListener('load',()=>frame&&frame.classList.remove('is-missing'));
+  if(img.complete && !img.naturalWidth) missing();
+});
