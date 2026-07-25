@@ -6,6 +6,25 @@
   const nav = document.querySelector('[data-nav]');
   if (toggle && nav) toggle.addEventListener('click', () => { const open = nav.classList.toggle('open'); toggle.setAttribute('aria-expanded', String(open)); document.body.classList.toggle('menu-open', open); });
 
+
+  const cursor = document.querySelector('[data-ink-cursor]');
+  if (cursor && window.matchMedia('(pointer:fine)').matches) {
+    document.body.classList.add('has-pointer');
+    window.addEventListener('mousemove', e => { cursor.style.left = `${e.clientX}px`; cursor.style.top = `${e.clientY}px`; });
+    document.querySelectorAll('a,button').forEach(el => {
+      el.addEventListener('mouseenter', () => { cursor.style.width = '42px'; cursor.style.height = '42px'; });
+      el.addEventListener('mouseleave', () => { cursor.style.width = '18px'; cursor.style.height = '18px'; });
+    });
+  }
+
+  document.querySelectorAll('.service-row').forEach(row => {
+    row.addEventListener('mousemove', e => {
+      const r = row.getBoundingClientRect();
+      row.style.setProperty('--mx', `${e.clientX-r.left}px`);
+      row.style.setProperty('--my', `${e.clientY-r.top}px`);
+    });
+  });
+
   const observer = new IntersectionObserver(entries => entries.forEach(entry => { if (entry.isIntersecting) entry.target.classList.add('visible'); }), { threshold: .12 });
   document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 
