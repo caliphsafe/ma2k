@@ -1,0 +1,20 @@
+{
+  "business": {
+    "name": "MA2K Impression",
+    "email": "ma2kimpression@gmail.com",
+    "phone": "508-958-9587",
+    "address": "1 Wamsutta Street, Suite 15, New Bedford, MA 02740",
+    "hours": {
+      "monday": "10:00 AM–6:00 PM",
+      "tuesday": "10:00 AM–6:00 PM",
+      "wednesday": "10:00 AM–6:00 PM",
+      "thursday": "10:00 AM–6:00 PM",
+      "friday": "10:00 AM–6:00 PM",
+      "saturday": "10:00 AM–6:00 PM",
+      "sunday": "Closed"
+    }
+  },
+  "languages": ["en", "fr"],
+  "defaultLanguage": "en",
+  "socialLinks": []
+}

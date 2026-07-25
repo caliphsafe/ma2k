@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "screen-printing",
+    "name": {"en": "Screen Printing", "fr": "Sérigraphie"},
+    "primary": true,
+    "page": "screen-printing.html",
+    "image": "assets/images/services/screen-printing.jpg"
+  },
+  {
+    "slug": "embroidery",
+    "name": {"en": "Embroidery", "fr": "Broderie"},
+    "page": "embroidery.html",
+    "image": "assets/images/services/embroidery.jpg"
+  },
+  {
+    "slug": "heat-press-vinyl",
+    "name": {"en": "Heat Press + Vinyl", "fr": "Presse à chaud + Vinyle"},
+    "page": "heat-press-vinyl.html",
+    "image": "assets/images/services/heat-press.jpg"
+  },
+  {
+    "slug": "signs-banners",
+    "name": {"en": "Signs + Banners", "fr": "Enseignes + Bannières"},
+    "page": "signs-banners.html",
+    "image": "assets/images/services/banners.jpg"
+  },
+  {
+    "slug": "promotional-products",
+    "name": {"en": "Promotional Products", "fr": "Objets promotionnels"},
+    "page": "promotional-products.html",
+    "image": "assets/images/services/promotional-products.jpg"
+  }
+]

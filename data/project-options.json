@@ -1,0 +1,7 @@
+{
+  "projectTypes": ["Clothing brand", "School apparel", "Sports team", "Business uniforms", "Event merchandise", "Restaurant apparel", "Promotional products", "Something custom"],
+  "products": ["T-shirts", "Hoodies", "Polos", "Hats", "Jackets", "Uniforms", "Signs or banners", "Promotional products", "Other"],
+  "quantities": ["12–23", "24–49", "50–99", "100–249", "250+", "Not sure"],
+  "methods": ["Screen printing", "Embroidery", "Heat press", "Vinyl", "Signs or banners", "Promotional products", "Not sure"],
+  "timelines": ["As soon as possible", "Within 2 weeks", "Within 1 month", "More than 1 month", "Flexible"]
+}

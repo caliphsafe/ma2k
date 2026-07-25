@@ -1,0 +1,50 @@
+{
+  "hero": [
+    "hero-main.jpg",
+    "hero-embroidery.jpg",
+    "hero-heatpress.jpg",
+    "hero-shop.jpg"
+  ],
+  "services": [
+    "screen-printing.jpg",
+    "embroidery.jpg",
+    "heat-press.jpg",
+    "vinyl.jpg",
+    "banners.jpg",
+    "promotional-products.jpg"
+  ],
+  "industries": [
+    "clothing-brand.jpg",
+    "school-apparel.jpg",
+    "sports-team.jpg",
+    "restaurant.jpg",
+    "construction.jpg",
+    "corporate.jpg"
+  ],
+  "process": [
+    "consultation.jpg",
+    "artwork.jpg",
+    "production.jpg",
+    "quality-control.jpg",
+    "packaging.jpg"
+  ],
+  "work": [
+    "work-streetwear.jpg",
+    "work-school.jpg",
+    "work-restaurant.jpg",
+    "work-corporate.jpg",
+    "work-events.jpg"
+  ],
+  "about": [
+    "owner.jpg",
+    "shop-overview.jpg",
+    "team.jpg",
+    "workspace.jpg"
+  ],
+  "contact": [
+    "storefront.jpg",
+    "reception.jpg",
+    "start-project.jpg",
+    "quote.jpg"
+  ]
+}

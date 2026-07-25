@@ -1,86 +1,36 @@
-# MA2K Impression — PRESS Photo 43 Build
+# MA2K Impression — PRESS 43 Build (Image-Free Edition)
 
-## Important
-This build requires **only the JPG image library below**. It does not require a logo, favicon, texture, icon, pattern, or detail-image folder. The temporary CSS wordmark and CSS-generated visual texture remain in place until real brand assets are supplied.
+A static, GitHub-ready and Vercel-ready bilingual website for MA2K Impression.
 
-Until an image is uploaded, the website displays a clean monochrome placeholder showing the expected filename. No broken-image icon appears.
+## Current design
 
-## Upload location
-Upload all photos under `assets/images/` using the exact folders and filenames below.
+- No photographs or visible image placeholders
+- Editorial print-studio layouts built entirely with HTML and CSS
+- Slightly stronger but restrained red, yellow and green production accents
+- English is always the default on every new page load
+- The EN/FR control changes only the currently open page and is not remembered by the browser
+- Mobile-first navigation and project builder
+- Printflow-ready custom-order handoff
 
-### `assets/images/hero/`
-```text
-hero-main.jpg
-hero-embroidery.jpg
-hero-heatpress.jpg
-hero-shop.jpg
+## Future images
+
+The website is prepared for a maximum of 3–4 intentional images per page. Nothing is displayed until you deliberately add image markup. Store future photography under `assets/images/<page-name>/`.
+
+Example markup:
+
+```html
+<div class="future-media">
+  <img src="assets/images/about/hero.jpg" alt="MA2K production studio">
+  <img src="assets/images/about/detail-01.jpg" alt="Screen printing detail">
+</div>
 ```
 
-### `assets/images/services/`
-```text
-screen-printing.jpg
-embroidery.jpg
-heat-press.jpg
-vinyl.jpg
-banners.jpg
-promotional-products.jpg
-```
+Use JPG for standard photography. Use PNG only for transparent graphics.
 
-### `assets/images/industries/`
-```text
-clothing-brand.jpg
-school-apparel.jpg
-sports-team.jpg
-restaurant.jpg
-construction.jpg
-corporate.jpg
-```
+## Deployment
 
-### `assets/images/process/`
-```text
-consultation.jpg
-artwork.jpg
-production.jpg
-quality-control.jpg
-packaging.jpg
-```
-
-### `assets/images/work/`
-```text
-work-streetwear.jpg
-work-school.jpg
-work-restaurant.jpg
-work-corporate.jpg
-work-events.jpg
-```
-
-### `assets/images/about/`
-```text
-owner.jpg
-shop-overview.jpg
-team.jpg
-workspace.jpg
-```
-
-### `assets/images/contact/`
-```text
-storefront.jpg
-reception.jpg
-start-project.jpg
-quote.jpg
-```
-
-## Image format
-Use `.jpg` for every photo. Recommended export: sRGB, 80–88% JPG quality, at least 2400 px on the long edge. Larger hero images can be 3200 px wide.
-
-## Deploy
-1. Unzip the folder.
-2. Upload every file and folder to GitHub.
-3. Import the repository into Vercel.
-4. No build command is required.
+Upload the full folder contents to the root of a GitHub repository and import the repository into Vercel. No package manager or `package-lock.json` is required.
 
 ## Printflow
-Open `assets/js/config.js`, set `printflow.enabled` to `true`, and add the future embed URL.
 
-## Missing future assets
-When available later, the original logo and favicon can be added deliberately. They are not referenced by this version, so the current site works without them.
+Edit `assets/js/config.js` and set `printflow.enabled` to `true`, then paste the embed URL into `printflow.embedUrl`.
