@@ -1,32 +1,86 @@
-# MA2K Impression — PRESS 43 Build
+# MA2K Impression — PRESS Photo 43 Build
 
-A multi-page, bilingual, mobile-first website for MA2K Impression.
+## Important
+This build requires **only the JPG image library below**. It does not require a logo, favicon, texture, icon, pattern, or detail-image folder. The temporary CSS wordmark and CSS-generated visual texture remain in place until real brand assets are supplied.
+
+Until an image is uploaded, the website displays a clean monochrome placeholder showing the expected filename. No broken-image icon appears.
+
+## Upload location
+Upload all photos under `assets/images/` using the exact folders and filenames below.
+
+### `assets/images/hero/`
+```text
+hero-main.jpg
+hero-embroidery.jpg
+hero-heatpress.jpg
+hero-shop.jpg
+```
+
+### `assets/images/services/`
+```text
+screen-printing.jpg
+embroidery.jpg
+heat-press.jpg
+vinyl.jpg
+banners.jpg
+promotional-products.jpg
+```
+
+### `assets/images/industries/`
+```text
+clothing-brand.jpg
+school-apparel.jpg
+sports-team.jpg
+restaurant.jpg
+construction.jpg
+corporate.jpg
+```
+
+### `assets/images/process/`
+```text
+consultation.jpg
+artwork.jpg
+production.jpg
+quality-control.jpg
+packaging.jpg
+```
+
+### `assets/images/work/`
+```text
+work-streetwear.jpg
+work-school.jpg
+work-restaurant.jpg
+work-corporate.jpg
+work-events.jpg
+```
+
+### `assets/images/about/`
+```text
+owner.jpg
+shop-overview.jpg
+team.jpg
+workspace.jpg
+```
+
+### `assets/images/contact/`
+```text
+storefront.jpg
+reception.jpg
+start-project.jpg
+quote.jpg
+```
+
+## Image format
+Use `.jpg` for every photo. Recommended export: sRGB, 80–88% JPG quality, at least 2400 px on the long edge. Larger hero images can be 3200 px wide.
 
 ## Deploy
-1. Unzip this folder.
-2. Upload every file and folder to a GitHub repository.
+1. Unzip the folder.
+2. Upload every file and folder to GitHub.
 3. Import the repository into Vercel.
-4. No build command or framework preset is required.
-
-## Main pages
-- `index.html`
-- `solutions.html`
-- Individual service pages
-- `work.html`
-- `process.html`
-- `about.html`
-- `testimonials.html`
-- `contact.html`
-- `start-project.html`
+4. No build command is required.
 
 ## Printflow
-Open `assets/js/config.js` and set `enabled: true` plus the future embed URL. The project builder is functional without Printflow and stores selections in the visitor’s browser.
+Open `assets/js/config.js`, set `printflow.enabled` to `true`, and add the future embed URL.
 
-## Forms
-Forms currently provide a front-end demonstration and local testimonial storage. Connect the endpoint values in `assets/js/config.js` to Supabase, Formspree, a Vercel function, or another API.
-
-## Project photos
-Place full-resolution work images in `assets/images/projects/`, then replace the art-directed placeholders in `work.html`.
-
-## Logo
-The CSS-built temporary wordmark can be replaced later with the original logo file.
+## Missing future assets
+When available later, the original logo and favicon can be added deliberately. They are not referenced by this version, so the current site works without them.
