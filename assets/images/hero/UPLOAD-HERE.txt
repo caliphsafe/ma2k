@@ -1,0 +1,6 @@
+Upload JPG files with these exact names:
+
+hero-main.jpg
+hero-embroidery.jpg
+hero-heatpress.jpg
+hero-shop.jpg

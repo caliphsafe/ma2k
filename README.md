@@ -34,3 +34,15 @@ Upload the full folder contents to the root of a GitHub repository and import th
 ## Printflow
 
 Edit `assets/js/config.js` and set `printflow.enabled` to `true`, then paste the embed URL into `printflow.embedUrl`.
+
+
+## Background image folders
+This version uses only three optional JPG folders. The website remains readable while files are missing because each photograph is layered beneath a strong gradient.
+
+```text
+assets/images/hero/
+assets/images/services/
+assets/images/process/
+```
+
+Use the exact filenames listed in each folder's `UPLOAD-HERE.txt`. No logo, texture, detail, icon, pattern, work, about, industry, or contact image folder is required.

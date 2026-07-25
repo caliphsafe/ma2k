@@ -1,0 +1,8 @@
+Upload JPG files with these exact names:
+
+screen-printing.jpg
+embroidery.jpg
+heat-press.jpg
+vinyl.jpg
+banners.jpg
+promotional-products.jpg

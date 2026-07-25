@@ -1,0 +1,7 @@
+Upload JPG files with these exact names:
+
+consultation.jpg
+artwork.jpg
+production.jpg
+quality-control.jpg
+packaging.jpg
