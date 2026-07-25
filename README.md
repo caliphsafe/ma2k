@@ -46,3 +46,6 @@ assets/images/process/
 ```
 
 Use the exact filenames listed in each folder's `UPLOAD-HERE.txt`. No logo, texture, detail, icon, pattern, work, about, industry, or contact image folder is required.
+
+## Full-page background mapping
+Every page now uses one of the original JPG filenames from `assets/images/hero`, `assets/images/services`, or `assets/images/process`. The selected image appears behind the page hero and continues as a softly overlaid background behind all major light content sections. White content panels remain readable above the photography.
