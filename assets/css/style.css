@@ -156,3 +156,24 @@ body[data-page="testimonials"]{--page-photo:url('../images/hero/hero-embroidery.
   .mobile-builder{font-size:12px}
   .mobile-builder .btn{width:auto;min-height:42px}
 }
+
+/* Compact bilingual hero sizing — July 2026 */
+.hero,.page-hero{min-height:auto;padding:96px 0 72px}
+.hero h1,.page-hero h1{font-size:clamp(58px,7.2vw,112px);line-height:.88;letter-spacing:-.065em;max-width:12ch}
+.hero-copy{margin-top:28px}
+.page-hero-grid{align-items:end}
+.page-hero .lede,.hero .lede{max-width:650px}
+@media(max-width:1050px){
+  .hero,.page-hero{padding:76px 0 58px}
+  .hero h1,.page-hero h1{font-size:clamp(52px,10vw,86px);max-width:13ch}
+}
+@media(max-width:700px){
+  .hero,.page-hero{padding:54px 0 38px}
+  .hero h1,.page-hero h1{font-size:clamp(40px,12.5vw,64px);line-height:.92;letter-spacing:-.055em;max-width:100%}
+  .hero-copy{margin-top:18px}
+  .page-hero:after{margin-top:22px;height:5px}
+}
+@media(max-width:390px){
+  .hero,.page-hero{padding:46px 0 32px}
+  .hero h1,.page-hero h1{font-size:clamp(37px,12vw,52px)}
+}
