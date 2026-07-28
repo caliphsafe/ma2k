@@ -1,10 +1,82 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>MA2K Commerce Admin</title>
+  <link href="../assets/css/style.css" rel="stylesheet">
+  <link href="../assets/css/storefront.css" rel="stylesheet">
+</head>
+<body class="admin-page" data-hero="admin">
+<header class="site-header">
+  <div class="container"><div class="nav-shell">
+    <a class="brand" href="../index.html"><span class="brand-mark"></span>MA2K Impression</a>
+    <nav class="nav-links" id="primary-navigation">
+      <a href="../catalog.html">Products</a><a href="../solutions.html">Services</a><a href="../work.html">Work</a><a href="../process.html">Process</a><a href="../about.html">About</a><a href="../contact.html">Contact</a>
+    </nav>
+    <div class="nav-actions"><a class="btn nav-quote" href="../start-project.html">Request a quote</a><button aria-controls="primary-navigation" aria-expanded="false" aria-label="Menu" class="menu-toggle"><span></span><span></span></button></div>
+  </div></div>
+</header>
+<main>
+  <section class="commerce-hero admin-hero"><div class="container"><p class="eyebrow">PRIVATE ADMIN</p><h1>Commerce control center.</h1><p class="commerce-lede">Manage how products are sold, keep pricing organized, and connect payment services from one clear workspace.</p></div></section>
+  <section class="commerce-section"><div class="container admin-shell">
+    <section class="configurator glass-card admin-auth-card" id="admin-auth">
+      <p class="eyebrow">SECURE ACCESS</p><h2>Administrator sign in</h2><p class="admin-help">Sign in with an approved MA2K administrator account. Pricing and payment settings are protected.</p>
+      <form id="admin-login-form"><label>Email<input autocomplete="email" id="admin-email" required type="email"></label><label>Password<input autocomplete="current-password" id="admin-password" required type="password"></label><button class="btn" id="admin-login" type="submit">Sign in securely</button></form>
+      <p aria-live="polite" class="admin-status" id="admin-status"></p>
+      <details><summary>Having trouble signing in?</summary><p>Confirm the account exists and is email-confirmed in Supabase Authentication. Also verify the Supabase URL, public key, and service-role key are configured in Vercel.</p></details>
+    </section>
 
-<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><meta content="noindex,nofollow" name="robots"/><title>MA2K Pricing Admin</title><link href="../assets/css/style.css" rel="stylesheet"/><link href="../assets/css/storefront.css" rel="stylesheet"/></head><body class="admin-page" data-hero="admin"><header class="site-header"><div class="container"><div class="nav-shell"><a class="brand" href="../index.html"><span class="brand-mark"></span>MA2K Impression</a><nav class="nav-links" id="primary-navigation">
-<a data-en="Products" data-fr="Produits" href="../catalog.html">Products</a>
-<a data-en="Services" data-fr="Services" href="../solutions.html">Services</a>
-<a data-en="Work" data-fr="Réalisations" href="../work.html">Work</a>
-<a data-en="Process" data-fr="Processus" href="../process.html">Process</a>
-<a data-en="About" data-fr="À propos" href="../about.html">About</a>
-<a data-en="Contact" data-fr="Contact" href="../contact.html">Contact</a>
-</nav><div class="nav-actions"><div class="language-switch"><button class="active" data-lang="en">EN</button><button data-lang="fr">FR</button></div><a class="btn nav-quote" data-en="Request a quote" data-fr="Demander un devis" href="../start-project.html">Request a quote</a><button aria-controls="primary-navigation" aria-expanded="false" aria-label="Menu" class="menu-toggle"><span></span><span></span></button></div></div></div></header><main><section class="commerce-hero"><div class="container"><p class="eyebrow">PRIVATE ADMIN</p><h1>Pricing control center.</h1><p class="commerce-lede">Securely manage product availability and pricing formulas used by the MA2K storefront.</p></div></section><section class="commerce-section"><div class="container admin-shell"><div class="configurator glass-card admin-auth-card" id="admin-auth"><h2>Administrator sign in</h2><p class="admin-help">Use one of the approved MA2K administrator accounts.</p><form id="admin-login-form"><label>Email<input autocomplete="email" id="admin-email" required="" type="email"/></label><label>Password<input autocomplete="current-password" id="admin-password" required="" type="password"/></label><button class="btn" id="admin-login" type="submit">Sign in</button></form><p aria-live="polite" class="admin-status" id="admin-status"></p><details><summary>Login troubleshooting</summary><p>Confirm the Supabase URL and public key are configured, the user is confirmed in Supabase Authentication, and the email is on the MA2K administrator list.</p></details></div><div hidden="" id="admin-console"><div class="admin-toolbar"><div><p class="eyebrow">AUTHORIZED SESSION</p><h2>Product pricing</h2><p id="admin-user"></p></div><div class="admin-toolbar-actions"><button class="btn light" id="admin-signout">Sign out</button><button class="btn" id="admin-save-all">Save changes</button></div></div><p aria-live="polite" class="admin-status" id="admin-console-status"></p><div class="admin-product-list" id="admin-products"></div></div></div></section></main><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="../assets/js/config.js"></script><script src="../assets/js/admin.js"></script></body></html>
+    <section hidden id="admin-console">
+      <div class="admin-toolbar glass-card"><div><p class="eyebrow">AUTHORIZED SESSION</p><h2>MA2K storefront administration</h2><p id="admin-user"></p></div><div class="admin-toolbar-actions"><button class="btn light" id="admin-signout">Sign out</button></div></div>
+
+      <nav class="admin-tabs" aria-label="Admin sections">
+        <button class="active" data-admin-tab="overview">Overview</button>
+        <button data-admin-tab="pricing">Products &amp; pricing</button>
+        <button data-admin-tab="payments">Payments</button>
+      </nav>
+      <p aria-live="polite" class="admin-status" id="admin-console-status"></p>
+
+      <div class="admin-panel active" data-admin-panel="overview">
+        <div class="admin-stat-grid">
+          <article class="glass-card admin-stat"><span>Products</span><strong id="stat-products">—</strong><small>Available in the catalog</small></article>
+          <article class="glass-card admin-stat"><span>Order online</span><strong id="stat-online">—</strong><small>Standardized and payment-ready</small></article>
+          <article class="glass-card admin-stat"><span>Request quote</span><strong id="stat-quote">—</strong><small>Reviewed before final pricing</small></article>
+          <article class="glass-card admin-stat"><span>Square</span><strong id="stat-square">Checking</strong><small id="stat-square-note">Payment connection status</small></article>
+        </div>
+        <div class="admin-guide-grid">
+          <article class="glass-card admin-guide quote-guide"><p class="eyebrow">REQUEST QUOTE</p><h3>Use when the job needs review.</h3><p>Choose this for custom fabrication, unusual dimensions, installation, freight, complex artwork, variable quantities, or any project where MA2K should confirm production details before the customer pays.</p><ul><li>Customer submits specifications and artwork</li><li>MA2K reviews production requirements</li><li>A final quote is approved before payment</li></ul></article>
+          <article class="glass-card admin-guide online-guide"><p class="eyebrow">ORDER ONLINE</p><h3>Use when pricing is complete and predictable.</h3><p>Choose this only for standardized products with dependable material, size, finishing, shipping, and pricing rules. Customers can configure the product and proceed to Square payment.</p><ul><li>Pricing formula must be complete</li><li>Required options must be supported</li><li>Square must be connected</li></ul></article>
+        </div>
+        <article class="glass-card admin-next-step"><div><p class="eyebrow">RECOMMENDED WORKFLOW</p><h3>Start conservatively, then enable online ordering.</h3><p>Keep new or complicated products on Request Quote. Move a product to Order Online only after testing its pricing formula, minimum charge, artwork requirements, and fulfillment process.</p></div><button class="btn" data-go-tab="pricing">Review product settings</button></article>
+      </div>
+
+      <div class="admin-panel" data-admin-panel="pricing">
+        <div class="glass-card admin-pricing-toolbar">
+          <div><p class="eyebrow">PRODUCT SETTINGS</p><h2>Products &amp; pricing</h2><p>Search, filter, and control how each catalog item is sold.</p></div>
+          <div class="admin-toolbar-actions"><button class="btn light" id="admin-reload">Reload</button><button class="btn" id="admin-save-all">Save all changes</button></div>
+        </div>
+        <div class="glass-card admin-filters"><label class="admin-search">Search products<input id="admin-product-search" type="search" placeholder="Search by product or category"></label><label>Sales method<select id="admin-mode-filter"><option value="all">All products</option><option value="quote">Request quote</option><option value="online">Order online</option></select></label><label>Category<select id="admin-category-filter"><option value="all">All categories</option></select></label></div>
+        <div class="admin-product-list" id="admin-products"></div>
+        <div class="admin-sticky-save"><span id="admin-unsaved">No unsaved changes</span><button class="btn" id="admin-save-sticky">Save changes</button></div>
+      </div>
+
+      <div class="admin-panel" data-admin-panel="payments">
+        <div class="glass-card admin-payment-head"><div><p class="eyebrow">PAYMENT INTEGRATION</p><h2>Square connection</h2><p>Connect MA2K’s Square account securely through Square. Administrators never enter a Square password or access token into this website.</p></div><span class="connection-pill" id="square-pill">Checking connection</span></div>
+        <div class="admin-payment-grid">
+          <article class="glass-card admin-square-card">
+            <div class="square-brand-lockup"><span class="square-symbol" aria-hidden="true"></span><div><h3 id="square-title">Square is not connected</h3><p id="square-description">Connect Square to prepare eligible products for online payment.</p></div></div>
+            <dl class="connection-details" id="square-details"><div><dt>Environment</dt><dd id="square-environment">—</dd></div><div><dt>Merchant</dt><dd id="square-merchant">Not connected</dd></div><div><dt>Connected</dt><dd id="square-connected-at">—</dd></div></dl>
+            <div class="admin-payment-actions"><button class="btn" id="square-connect">Connect Square</button><button class="btn light" id="square-refresh">Refresh status</button><button class="text-button danger" id="square-disconnect" hidden>Disconnect Square</button></div>
+            <p class="admin-status" id="square-status" aria-live="polite"></p>
+          </article>
+          <article class="glass-card admin-guide"><p class="eyebrow">HOW IT WORKS</p><h3>A secure authorization flow.</h3><ol><li>Select <strong>Connect Square</strong>.</li><li>Sign in on Square’s secure website.</li><li>Choose the correct MA2K Square account.</li><li>Approve the requested permissions.</li><li>Return here and confirm the connected merchant.</li></ol><p class="admin-note">The application secret and payment credentials remain server-side. MA2K administrators should never paste a Square access token into a browser form.</p></article>
+        </div>
+        <article class="glass-card admin-payment-readiness"><p class="eyebrow">ONLINE ORDER READINESS</p><h3>Square connection is one part of launch.</h3><p>A product should be marked Order Online only when its pricing formula, production options, taxes, shipping or pickup rules, and customer artwork flow have all been tested.</p></article>
+      </div>
+    </section>
+  </div></section>
+</main>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="../assets/js/config.js"></script><script src="../assets/js/admin.js"></script>
+</body></html>
