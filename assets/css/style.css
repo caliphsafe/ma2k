@@ -177,3 +177,14 @@ body[data-page="testimonials"]{--page-photo:url('../images/hero/hero-embroidery.
   .hero,.page-hero{padding:46px 0 32px}
   .hero h1,.page-hero h1{font-size:clamp(37px,12vw,52px)}
 }
+
+/* Viewport containment patch — prevents horizontal overflow at normal zoom */
+html,body{width:100%;max-width:100%;overflow-x:clip}
+body{min-width:0}
+.container,.nav-shell,.hero-grid,.page-hero-grid,.chapter-head,.editorial-grid,.split-showcase,.builder-shell,.footer-top,.about-story-grid,.home-hero-grid,.split-story,.future-media{min-width:0;max-width:100%}
+:is(.nav-shell,.hero-grid,.page-hero-grid,.chapter-head,.editorial-grid,.split-showcase,.builder-shell,.footer-top,.about-story-grid,.home-hero-grid,.split-story,.future-media)>*{min-width:0;max-width:100%}
+:is(h1,h2,h3,h4,p,a,span,strong,small,label,dd,dt,button){overflow-wrap:anywhere}
+input,select,textarea,button{max-width:100%;min-width:0}
+.nav-links,.nav-actions,.hero-actions,.section-actions,.admin-toolbar-actions{min-width:0;max-width:100%}
+.full-bleed{max-width:calc(100% - 20px)}
+@media(max-width:700px){.full-bleed{width:calc(100% - 12px);max-width:calc(100% - 12px)}}
