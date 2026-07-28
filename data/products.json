@@ -3,7 +3,7 @@
     "id": 1,
     "slug": "banners",
     "name": "Banners",
-    "nameFr": "B\u00e2ches publicitaires",
+    "nameFr": "Bâches publicitaires",
     "category": "Banners & Displays",
     "tags": [
       "Outdoor",
@@ -13,7 +13,7 @@
       "Schools"
     ],
     "description": "Flexible, high-impact graphics for storefronts, events, construction fencing and community programs.",
-    "descriptionFr": "B\u00e2ches publicitaires sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Bâches publicitaires sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional banners for outdoor projects",
       "Professional banners for business projects",
@@ -35,12 +35,12 @@
       "outdoor": true
     },
     "sizes": [
-      "2 \u00d7 4 ft",
-      "3 \u00d7 6 ft",
-      "4 \u00d7 8 ft"
+      "2 × 4 ft",
+      "3 × 6 ft",
+      "4 × 8 ft"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3\u20135 business days",
+    "timeline": "3–5 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -121,14 +121,15 @@
       }
     ],
     "related": [],
-    "categoryFr": "B\u00e2ches et supports de communication",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "3\u20135 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Bâches et supports de communication",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "3–5 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/banners.webp",
-    "imageAlt": "Banners product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Banners example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 2,
@@ -145,7 +146,7 @@
       "Schools"
     ],
     "description": "Lightweight campaign and directional signs built for lawns, roadside visibility and short-term outdoor messaging.",
-    "descriptionFr": "Panneaux de jardin sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Panneaux de jardin sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional yard signs for outdoor projects",
       "Professional yard signs for business projects",
@@ -166,11 +167,11 @@
       "outdoor": true
     },
     "sizes": [
-      "18 \u00d7 24 in",
-      "24 \u00d7 36 in"
+      "18 × 24 in",
+      "24 × 36 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3\u20135 business days",
+    "timeline": "3–5 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -255,19 +256,20 @@
       "pvc-signs"
     ],
     "categoryFr": "Panneaux rigides",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "3\u20135 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "3–5 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/yard-signs.webp",
-    "imageAlt": "Yard Signs product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Yard Signs example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 3,
     "slug": "coroplast-signs",
     "name": "Coroplast Signs",
-    "nameFr": "Panneaux alv\u00e9olaires",
+    "nameFr": "Panneaux alvéolaires",
     "category": "Rigid Signs",
     "tags": [
       "Indoor",
@@ -279,7 +281,7 @@
       "Schools"
     ],
     "description": "Versatile corrugated-plastic signage for promotions, presentations, wayfinding and temporary installations.",
-    "descriptionFr": "Panneaux alv\u00e9olaires sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Panneaux alvéolaires sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional coroplast signs for indoor projects",
       "Professional coroplast signs for outdoor projects",
@@ -301,12 +303,12 @@
       "outdoor": true
     },
     "sizes": [
-      "18 \u00d7 24 in",
-      "24 \u00d7 36 in",
-      "48 \u00d7 96 in"
+      "18 × 24 in",
+      "24 × 36 in",
+      "48 × 96 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3\u20135 business days",
+    "timeline": "3–5 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -392,13 +394,14 @@
       "pvc-signs"
     ],
     "categoryFr": "Panneaux rigides",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "3\u20135 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "3–5 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/coroplast-signs.webp",
-    "imageAlt": "Coroplast Signs product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Coroplast Signs example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 4,
@@ -415,7 +418,7 @@
       "Restaurants"
     ],
     "description": "Durable, professional signage for long-term exterior identification, property notices and branded environments.",
-    "descriptionFr": "Panneaux en aluminium composite sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Panneaux en aluminium composite sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional aluminum signs for outdoor projects",
       "Professional aluminum signs for business projects",
@@ -436,12 +439,12 @@
       "outdoor": true
     },
     "sizes": [
-      "12 \u00d7 18 in",
-      "18 \u00d7 24 in",
-      "24 \u00d7 36 in"
+      "12 × 18 in",
+      "18 × 24 in",
+      "24 × 36 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20137 business days",
+    "timeline": "5–7 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -526,19 +529,20 @@
       "pvc-signs"
     ],
     "categoryFr": "Panneaux rigides",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20137 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–7 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/aluminum-signs.webp",
-    "imageAlt": "Aluminum Signs product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Aluminum Signs example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 5,
     "slug": "pvc-signs",
     "name": "PVC Signs",
-    "nameFr": "Panneaux en PVC expans\u00e9",
+    "nameFr": "Panneaux en PVC expansé",
     "category": "Rigid Signs",
     "tags": [
       "Indoor",
@@ -549,7 +553,7 @@
       "Trade Shows"
     ],
     "description": "Smooth, substantial rigid signs for interior branding, menus, displays and protected outdoor applications.",
-    "descriptionFr": "Panneaux en PVC expans\u00e9 sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Panneaux en PVC expansé sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional pvc signs for indoor projects",
       "Professional pvc signs for outdoor projects",
@@ -571,12 +575,12 @@
       "outdoor": true
     },
     "sizes": [
-      "18 \u00d7 24 in",
-      "24 \u00d7 36 in",
-      "48 \u00d7 96 in"
+      "18 × 24 in",
+      "24 × 36 in",
+      "48 × 96 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20137 business days",
+    "timeline": "5–7 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -662,13 +666,14 @@
       "aluminum-signs"
     ],
     "categoryFr": "Panneaux rigides",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20137 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–7 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/pvc-signs.webp",
-    "imageAlt": "PVC Signs product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "PVC Signs example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 6,
@@ -683,7 +688,7 @@
       "Restaurants"
     ],
     "description": "Premium architectural signage with polished depth for offices, reception areas, retail and hospitality spaces.",
-    "descriptionFr": "Plaques en acrylique sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Plaques en acrylique sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional acrylic signs for indoor projects",
       "Professional acrylic signs for business projects",
@@ -705,12 +710,12 @@
       "outdoor": false
     },
     "sizes": [
-      "12 \u00d7 18 in",
-      "18 \u00d7 24 in",
-      "24 \u00d7 36 in"
+      "12 × 18 in",
+      "18 × 24 in",
+      "24 × 36 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7\u201310 business days",
+    "timeline": "7–10 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -796,13 +801,14 @@
       "aluminum-signs"
     ],
     "categoryFr": "Panneaux rigides",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "7\u201310 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "7–10 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/acrylic-signs.webp",
-    "imageAlt": "Acrylic Signs product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Acrylic Signs example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 7,
@@ -819,7 +825,7 @@
       "Trade Shows"
     ],
     "description": "Lightweight presentation boards for events, meetings, retail displays, photography and indoor promotions.",
-    "descriptionFr": "Panneaux en carton plume sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Panneaux en carton plume sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional foam board for indoor projects",
       "Professional foam board for business projects",
@@ -840,12 +846,12 @@
       "outdoor": false
     },
     "sizes": [
-      "18 \u00d7 24 in",
-      "24 \u00d7 36 in",
-      "36 \u00d7 48 in"
+      "18 × 24 in",
+      "24 × 36 in",
+      "36 × 48 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3\u20135 business days",
+    "timeline": "3–5 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -930,20 +936,21 @@
       "aluminum-signs"
     ],
     "categoryFr": "Panneaux rigides",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "3\u20135 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "3–5 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/foam-board.webp",
-    "imageAlt": "Foam Board product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Foam Board example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 8,
     "slug": "posters",
     "name": "Posters",
     "nameFr": "Affiches grand format",
-    "category": "Prints & D\u00e9cor",
+    "category": "Prints & Décor",
     "tags": [
       "Indoor",
       "Business",
@@ -953,7 +960,7 @@
       "Schools"
     ],
     "description": "Crisp large-format posters for promotions, menus, announcements, displays and visual campaigns.",
-    "descriptionFr": "Affiches grand format sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Affiches grand format sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional posters for indoor projects",
       "Professional posters for business projects",
@@ -974,12 +981,12 @@
       "outdoor": false
     },
     "sizes": [
-      "11 \u00d7 17 in",
-      "18 \u00d7 24 in",
-      "24 \u00d7 36 in"
+      "11 × 17 in",
+      "18 × 24 in",
+      "24 × 36 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "2\u20134 business days",
+    "timeline": "2–4 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -1062,14 +1069,15 @@
     "related": [
       "canvas-prints"
     ],
-    "categoryFr": "Affiches et d\u00e9coration",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "2\u20134 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Affiches et décoration",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "2–4 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/posters.webp",
-    "imageAlt": "Posters product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Posters example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 9,
@@ -1085,7 +1093,7 @@
       "Restaurants"
     ],
     "description": "Custom window branding that turns glass into an informative, promotional or privacy-enhancing surface.",
-    "descriptionFr": "Habillage de vitrine sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Habillage de vitrine sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional window graphics for indoor projects",
       "Professional window graphics for outdoor projects",
@@ -1109,7 +1117,7 @@
       "Custom by window"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20137 business days",
+    "timeline": "5–7 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -1195,19 +1203,20 @@
       "wall-graphics"
     ],
     "categoryFr": "Vitrines et murs",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20137 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–7 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/window-graphics.webp",
-    "imageAlt": "Window Graphics product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Window Graphics example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 10,
     "slug": "window-perforated-vinyl",
     "name": "Window Perforated Vinyl",
-    "nameFr": "Adh\u00e9sif microperfor\u00e9 pour vitrine",
+    "nameFr": "Adhésif microperforé pour vitrine",
     "category": "Window & Wall",
     "tags": [
       "Outdoor",
@@ -1217,7 +1226,7 @@
       "Vehicle"
     ],
     "description": "See-through window graphics that create exterior impact while preserving visibility from inside.",
-    "descriptionFr": "Adh\u00e9sif microperfor\u00e9 pour vitrine sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Adhésif microperforé pour vitrine sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional window perforated vinyl for outdoor projects",
       "Professional window perforated vinyl for business projects",
@@ -1239,7 +1248,7 @@
       "Custom by window"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20137 business days",
+    "timeline": "5–7 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -1324,19 +1333,20 @@
       "wall-graphics"
     ],
     "categoryFr": "Vitrines et murs",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20137 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–7 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/window-perforated-vinyl.webp",
-    "imageAlt": "Window Perforated Vinyl product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Window Perforated Vinyl example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 11,
     "slug": "window-clings",
     "name": "Window Clings",
-    "nameFr": "Vitrophanie \u00e9lectrostatique",
+    "nameFr": "Vitrophanie électrostatique",
     "category": "Window & Wall",
     "tags": [
       "Indoor",
@@ -1346,7 +1356,7 @@
       "Restaurants"
     ],
     "description": "Reusable, adhesive-free graphics for seasonal promotions, temporary messages and changing storefront displays.",
-    "descriptionFr": "Vitrophanie \u00e9lectrostatique sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Vitrophanie électrostatique sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional window clings for indoor projects",
       "Professional window clings for business projects",
@@ -1366,12 +1376,12 @@
       "outdoor": false
     },
     "sizes": [
-      "12 \u00d7 18 in",
-      "18 \u00d7 24 in",
+      "12 × 18 in",
+      "18 × 24 in",
       "Custom"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3\u20135 business days",
+    "timeline": "3–5 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -1456,19 +1466,20 @@
       "wall-graphics"
     ],
     "categoryFr": "Vitrines et murs",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "3\u20135 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "3–5 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/window-clings.webp",
-    "imageAlt": "Window Clings product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Window Clings example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 12,
     "slug": "wall-graphics",
     "name": "Wall Graphics",
-    "nameFr": "Adh\u00e9sifs muraux",
+    "nameFr": "Adhésifs muraux",
     "category": "Window & Wall",
     "tags": [
       "Indoor",
@@ -1478,7 +1489,7 @@
       "Schools"
     ],
     "description": "Branded murals, statements and environmental graphics designed around the scale and texture of your space.",
-    "descriptionFr": "Adh\u00e9sifs muraux sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Adhésifs muraux sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional wall graphics for indoor projects",
       "Professional wall graphics for business projects",
@@ -1502,7 +1513,7 @@
       "Custom by wall"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u201310 business days",
+    "timeline": "5–10 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -1588,19 +1599,20 @@
       "window-clings"
     ],
     "categoryFr": "Vitrines et murs",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u201310 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–10 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/wall-graphics.webp",
-    "imageAlt": "Wall Graphics product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Wall Graphics example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 13,
     "slug": "floor-graphics",
     "name": "Floor Graphics",
-    "nameFr": "Adh\u00e9sifs de sol",
+    "nameFr": "Adhésifs de sol",
     "category": "Window & Wall",
     "tags": [
       "Indoor",
@@ -1611,7 +1623,7 @@
       "Schools"
     ],
     "description": "Durable directional and promotional graphics engineered for foot traffic and visual wayfinding.",
-    "descriptionFr": "Adh\u00e9sifs de sol sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Adhésifs de sol sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional floor graphics for indoor projects",
       "Professional floor graphics for outdoor projects",
@@ -1630,12 +1642,12 @@
       "outdoor": true
     },
     "sizes": [
-      "12 \u00d7 12 in",
-      "24 \u00d7 24 in",
+      "12 × 12 in",
+      "24 × 24 in",
       "Custom"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20137 business days",
+    "timeline": "5–7 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -1720,19 +1732,20 @@
       "window-clings"
     ],
     "categoryFr": "Vitrines et murs",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20137 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–7 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/floor-graphics.webp",
-    "imageAlt": "Floor Graphics product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Floor Graphics example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 14,
     "slug": "vehicle-magnets",
     "name": "Vehicle Magnets",
-    "nameFr": "Plaques magn\u00e9tiques pour v\u00e9hicule",
+    "nameFr": "Plaques magnétiques pour véhicule",
     "category": "Vehicle Graphics",
     "tags": [
       "Outdoor",
@@ -1740,7 +1753,7 @@
       "Vehicle"
     ],
     "description": "Removable vehicle identification for contractors, delivery teams, service businesses and temporary promotions.",
-    "descriptionFr": "Plaques magn\u00e9tiques pour v\u00e9hicule sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Plaques magnétiques pour véhicule sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional vehicle magnets for outdoor projects",
       "Professional vehicle magnets for business projects",
@@ -1758,12 +1771,12 @@
       "outdoor": true
     },
     "sizes": [
-      "12 \u00d7 24 in",
-      "18 \u00d7 24 in",
-      "24 \u00d7 36 in"
+      "12 × 24 in",
+      "18 × 24 in",
+      "24 × 36 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3\u20135 business days",
+    "timeline": "3–5 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -1846,20 +1859,21 @@
       "partial-vehicle-wraps",
       "full-vehicle-wraps"
     ],
-    "categoryFr": "Marquage de v\u00e9hicules",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "3\u20135 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Marquage de véhicules",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "3–5 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/vehicle-magnets.webp",
-    "imageAlt": "Vehicle Magnets product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Vehicle Magnets example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 15,
     "slug": "vehicle-lettering",
     "name": "Vehicle Lettering",
-    "nameFr": "Lettrage adh\u00e9sif pour v\u00e9hicule",
+    "nameFr": "Lettrage adhésif pour véhicule",
     "category": "Vehicle Graphics",
     "tags": [
       "Outdoor",
@@ -1867,7 +1881,7 @@
       "Vehicle"
     ],
     "description": "Clean names, contact details and brand marks sized and installed for everyday mobile visibility.",
-    "descriptionFr": "Lettrage adh\u00e9sif pour v\u00e9hicule sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Lettrage adhésif pour véhicule sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional vehicle lettering for outdoor projects",
       "Professional vehicle lettering for business projects",
@@ -1890,7 +1904,7 @@
       "Custom by vehicle"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20137 business days",
+    "timeline": "5–7 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -1974,20 +1988,21 @@
       "partial-vehicle-wraps",
       "full-vehicle-wraps"
     ],
-    "categoryFr": "Marquage de v\u00e9hicules",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20137 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Marquage de véhicules",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–7 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/vehicle-lettering.webp",
-    "imageAlt": "Vehicle Lettering product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Vehicle Lettering example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 16,
     "slug": "partial-vehicle-wraps",
     "name": "Partial Vehicle Wraps",
-    "nameFr": "Semi-covering de v\u00e9hicule",
+    "nameFr": "Semi-covering de véhicule",
     "category": "Vehicle Graphics",
     "tags": [
       "Outdoor",
@@ -1995,7 +2010,7 @@
       "Vehicle"
     ],
     "description": "Strategic wrap coverage that adds strong brand presence without covering the entire vehicle.",
-    "descriptionFr": "Semi-covering de v\u00e9hicule sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Semi-covering de véhicule sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional partial vehicle wraps for outdoor projects",
       "Professional partial vehicle wraps for business projects",
@@ -2017,7 +2032,7 @@
       "Custom by vehicle"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7\u201312 business days",
+    "timeline": "7–12 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -2100,20 +2115,21 @@
       "vehicle-lettering",
       "full-vehicle-wraps"
     ],
-    "categoryFr": "Marquage de v\u00e9hicules",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "7\u201312 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Marquage de véhicules",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "7–12 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/partial-vehicle-wraps.webp",
-    "imageAlt": "Partial Vehicle Wraps product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Partial Vehicle Wraps example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 17,
     "slug": "full-vehicle-wraps",
     "name": "Full Vehicle Wraps",
-    "nameFr": "Covering int\u00e9gral de v\u00e9hicule",
+    "nameFr": "Covering intégral de véhicule",
     "category": "Vehicle Graphics",
     "tags": [
       "Outdoor",
@@ -2121,7 +2137,7 @@
       "Vehicle"
     ],
     "description": "Full-surface mobile branding planned around body lines, viewing distance and professional installation.",
-    "descriptionFr": "Covering int\u00e9gral de v\u00e9hicule sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Covering intégral de véhicule sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional full vehicle wraps for outdoor projects",
       "Professional full vehicle wraps for business projects",
@@ -2143,7 +2159,7 @@
       "Custom by vehicle"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "10\u201315 business days",
+    "timeline": "10–15 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -2226,20 +2242,21 @@
       "vehicle-lettering",
       "partial-vehicle-wraps"
     ],
-    "categoryFr": "Marquage de v\u00e9hicules",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "10\u201315 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Marquage de véhicules",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "10–15 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/full-vehicle-wraps.webp",
-    "imageAlt": "Full Vehicle Wraps product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Full Vehicle Wraps example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 18,
     "slug": "contour-cut-decals",
     "name": "Contour Cut Decals",
-    "nameFr": "Adh\u00e9sifs d\u00e9coup\u00e9s \u00e0 la forme",
+    "nameFr": "Adhésifs découpés à la forme",
     "category": "Decals & Labels",
     "tags": [
       "Indoor",
@@ -2250,7 +2267,7 @@
       "Vehicle"
     ],
     "description": "Custom-shaped decals with clean edges for equipment, packaging, windows, promotions and branded surfaces.",
-    "descriptionFr": "Adh\u00e9sifs d\u00e9coup\u00e9s \u00e0 la forme sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Adhésifs découpés à la forme sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional contour cut decals for indoor projects",
       "Professional contour cut decals for outdoor projects",
@@ -2270,10 +2287,10 @@
       "outdoor": true
     },
     "sizes": [
-      "2\u201324 in custom"
+      "2–24 in custom"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3\u20135 business days",
+    "timeline": "3–5 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -2356,20 +2373,21 @@
       "stickers",
       "labels"
     ],
-    "categoryFr": "Adh\u00e9sifs et \u00e9tiquettes",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "3\u20135 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Adhésifs et étiquettes",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "3–5 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/contour-cut-decals.webp",
-    "imageAlt": "Contour Cut Decals product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Contour Cut Decals example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 19,
     "slug": "stickers",
     "name": "Stickers",
-    "nameFr": "Stickers personnalis\u00e9s",
+    "nameFr": "Stickers personnalisés",
     "category": "Decals & Labels",
     "tags": [
       "Indoor",
@@ -2380,7 +2398,7 @@
       "Schools"
     ],
     "description": "Durable branded stickers for packaging, giveaways, products, events and everyday customer engagement.",
-    "descriptionFr": "Stickers personnalis\u00e9s sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Stickers personnalisés sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional stickers for indoor projects",
       "Professional stickers for outdoor projects",
@@ -2408,7 +2426,7 @@
       "Custom"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3\u20135 business days",
+    "timeline": "3–5 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -2492,20 +2510,21 @@
       "contour-cut-decals",
       "labels"
     ],
-    "categoryFr": "Adh\u00e9sifs et \u00e9tiquettes",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "3\u20135 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Adhésifs et étiquettes",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "3–5 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/stickers.webp",
-    "imageAlt": "Stickers product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Stickers example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 20,
     "slug": "labels",
     "name": "Labels",
-    "nameFr": "\u00c9tiquettes adh\u00e9sives",
+    "nameFr": "Étiquettes adhésives",
     "category": "Decals & Labels",
     "tags": [
       "Indoor",
@@ -2514,7 +2533,7 @@
       "Restaurants"
     ],
     "description": "Product and packaging labels designed for clear identification, shelf presence and consistent branding.",
-    "descriptionFr": "\u00c9tiquettes adh\u00e9sives sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Étiquettes adhésives sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional labels for indoor projects",
       "Professional labels for business projects",
@@ -2539,7 +2558,7 @@
       "Custom shapes and sizes"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20137 business days",
+    "timeline": "5–7 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -2623,21 +2642,22 @@
       "contour-cut-decals",
       "stickers"
     ],
-    "categoryFr": "Adh\u00e9sifs et \u00e9tiquettes",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20137 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Adhésifs et étiquettes",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–7 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/labels.webp",
-    "imageAlt": "Labels product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Labels example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 21,
     "slug": "canvas-prints",
     "name": "Canvas Prints",
     "nameFr": "Impressions sur toile",
-    "category": "Prints & D\u00e9cor",
+    "category": "Prints & Décor",
     "tags": [
       "Indoor",
       "Business",
@@ -2646,7 +2666,7 @@
       "Restaurants"
     ],
     "description": "Gallery-style canvas artwork for offices, homes, restaurants, exhibits and meaningful presentation pieces.",
-    "descriptionFr": "Impressions sur toile sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Impressions sur toile sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional canvas prints for indoor projects",
       "Professional canvas prints for business projects",
@@ -2665,12 +2685,12 @@
       "outdoor": false
     },
     "sizes": [
-      "12 \u00d7 18 in",
-      "16 \u00d7 20 in",
-      "24 \u00d7 36 in"
+      "12 × 18 in",
+      "16 × 20 in",
+      "24 × 36 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20137 business days",
+    "timeline": "5–7 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -2751,14 +2771,15 @@
     "related": [
       "posters"
     ],
-    "categoryFr": "Affiches et d\u00e9coration",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20137 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Affiches et décoration",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–7 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/canvas-prints.webp",
-    "imageAlt": "Canvas Prints product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Canvas Prints example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 22,
@@ -2773,7 +2794,7 @@
       "Trade Shows"
     ],
     "description": "Coordinated display systems that give your team a polished, organized presence on the show floor.",
-    "descriptionFr": "Stands et PLV pour salons sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Stands et PLV pour salons sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional trade show displays for indoor projects",
       "Professional trade show displays for business projects",
@@ -2799,7 +2820,7 @@
       "20 ft systems"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7\u201312 business days",
+    "timeline": "7–12 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -2884,14 +2905,15 @@
       "table-covers",
       "backdrops"
     ],
-    "categoryFr": "PLV et \u00e9v\u00e9nementiel",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "7\u201312 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "PLV et événementiel",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "7–12 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/trade-show-displays.webp",
-    "imageAlt": "Trade Show Displays product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Trade Show Displays example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 23,
@@ -2907,7 +2929,7 @@
       "Trade Shows"
     ],
     "description": "Portable, self-contained display graphics for presentations, lobbies, recruiting and trade shows.",
-    "descriptionFr": "Roll-up publicitaires sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Roll-up publicitaires sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional retractable banner stands for indoor projects",
       "Professional retractable banner stands for business projects",
@@ -2927,11 +2949,11 @@
       "outdoor": false
     },
     "sizes": [
-      "33 \u00d7 80 in",
-      "36 \u00d7 92 in"
+      "33 × 80 in",
+      "36 × 92 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20137 business days",
+    "timeline": "5–7 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -3015,14 +3037,15 @@
       "table-covers",
       "backdrops"
     ],
-    "categoryFr": "PLV et \u00e9v\u00e9nementiel",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20137 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "PLV et événementiel",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–7 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/retractable-banner-stands.webp",
-    "imageAlt": "Retractable Banner Stands product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Retractable Banner Stands example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 24,
@@ -3038,7 +3061,7 @@
       "Trade Shows"
     ],
     "description": "Branded table presentation for events, registrations, vendor markets, schools and trade-show booths.",
-    "descriptionFr": "Nappes publicitaires sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Nappes publicitaires sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional table covers for indoor projects",
       "Professional table covers for business projects",
@@ -3064,7 +3087,7 @@
       "8 ft"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7\u201310 business days",
+    "timeline": "7–10 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -3148,14 +3171,15 @@
       "retractable-banner-stands",
       "backdrops"
     ],
-    "categoryFr": "PLV et \u00e9v\u00e9nementiel",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "7\u201310 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "PLV et événementiel",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "7–10 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/table-covers.webp",
-    "imageAlt": "Table Covers product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Table Covers example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 25,
@@ -3171,7 +3195,7 @@
       "Restaurants"
     ],
     "description": "Tall, wind-responsive flags that draw attention to entrances, promotions and event zones.",
-    "descriptionFr": "Oriflammes plume sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Oriflammes plume sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional feather flags for outdoor projects",
       "Professional feather flags for business projects",
@@ -3196,7 +3220,7 @@
       "13 ft"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7\u201310 business days",
+    "timeline": "7–10 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -3277,14 +3301,15 @@
     "related": [
       "teardrop-flags"
     ],
-    "categoryFr": "Oriflammes et ext\u00e9rieur",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "7\u201310 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Oriflammes et extérieur",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "7–10 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/feather-flags.webp",
-    "imageAlt": "Feather Flags product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Feather Flags example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 26,
@@ -3299,7 +3324,7 @@
       "Retail"
     ],
     "description": "Tensioned outdoor flags with a clean profile for branded entrances and high-visibility promotions.",
-    "descriptionFr": "Oriflammes goutte sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Oriflammes goutte sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional teardrop flags for outdoor projects",
       "Professional teardrop flags for business projects",
@@ -3324,7 +3349,7 @@
       "11 ft"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7\u201310 business days",
+    "timeline": "7–10 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -3405,20 +3430,21 @@
     "related": [
       "feather-flags"
     ],
-    "categoryFr": "Oriflammes et ext\u00e9rieur",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "7\u201310 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Oriflammes et extérieur",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "7–10 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/teardrop-flags.webp",
-    "imageAlt": "Teardrop Flags product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Teardrop Flags example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 27,
     "slug": "backdrops",
     "name": "Backdrops",
-    "nameFr": "Fonds de sc\u00e8ne et murs d\u2019image",
+    "nameFr": "Fonds de scène et murs d’image",
     "category": "Displays & Events",
     "tags": [
       "Indoor",
@@ -3428,7 +3454,7 @@
       "Trade Shows"
     ],
     "description": "Photo-ready branded backgrounds for press areas, celebrations, school events and corporate activations.",
-    "descriptionFr": "Fonds de sc\u00e8ne et murs d\u2019image sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Fonds de scène et murs d’image sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional backdrops for indoor projects",
       "Professional backdrops for business projects",
@@ -3449,12 +3475,12 @@
       "outdoor": false
     },
     "sizes": [
-      "8 \u00d7 8 ft",
-      "8 \u00d7 10 ft",
+      "8 × 8 ft",
+      "8 × 10 ft",
       "Custom"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7\u201310 business days",
+    "timeline": "7–10 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -3539,14 +3565,15 @@
       "retractable-banner-stands",
       "table-covers"
     ],
-    "categoryFr": "PLV et \u00e9v\u00e9nementiel",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "7\u201310 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "PLV et événementiel",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "7–10 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/backdrops.webp",
-    "imageAlt": "Backdrops product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Backdrops example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 28,
@@ -3562,7 +3589,7 @@
       "Restaurants"
     ],
     "description": "Portable sidewalk messaging for menus, sales, directions, check-in and daily business communication.",
-    "descriptionFr": "Chevalets publicitaires sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Chevalets publicitaires sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional a-frame signs for indoor projects",
       "Professional a-frame signs for outdoor projects",
@@ -3583,11 +3610,11 @@
       "outdoor": true
     },
     "sizes": [
-      "24 \u00d7 36 in",
-      "28 \u00d7 44 in"
+      "24 × 36 in",
+      "28 × 44 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20137 business days",
+    "timeline": "5–7 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -3672,14 +3699,15 @@
       "retractable-banner-stands",
       "table-covers"
     ],
-    "categoryFr": "PLV et \u00e9v\u00e9nementiel",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20137 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "PLV et événementiel",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–7 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/a-frame-signs.webp",
-    "imageAlt": "A-Frame Signs product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "A-Frame Signs example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 29,
@@ -3693,7 +3721,7 @@
       "Real Estate"
     ],
     "description": "Property signage systems for listings, open houses, development sites and agent branding.",
-    "descriptionFr": "Panneaux immobiliers sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Panneaux immobiliers sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional real estate signs for outdoor projects",
       "Professional real estate signs for business projects",
@@ -3714,11 +3742,11 @@
       "outdoor": true
     },
     "sizes": [
-      "18 \u00d7 24 in",
-      "24 \u00d7 36 in"
+      "18 × 24 in",
+      "24 × 36 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20137 business days",
+    "timeline": "5–7 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -3803,14 +3831,15 @@
       "directional-signs",
       "restaurant-graphics"
     ],
-    "categoryFr": "Solutions m\u00e9tiers",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20137 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Solutions métiers",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–7 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/real-estate-signs.webp",
-    "imageAlt": "Real Estate Signs product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Real Estate Signs example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 30,
@@ -3824,7 +3853,7 @@
       "Construction"
     ],
     "description": "Durable identification, compliance, safety and project messaging for active construction environments.",
-    "descriptionFr": "Panneaux de chantier sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Panneaux de chantier sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional construction site signs for outdoor projects",
       "Professional construction site signs for business projects",
@@ -3845,12 +3874,12 @@
       "outdoor": true
     },
     "sizes": [
-      "18 \u00d7 24 in",
-      "24 \u00d7 36 in",
-      "48 \u00d7 96 in"
+      "18 × 24 in",
+      "24 × 36 in",
+      "48 × 96 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20137 business days",
+    "timeline": "5–7 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -3935,20 +3964,21 @@
       "directional-signs",
       "restaurant-graphics"
     ],
-    "categoryFr": "Solutions m\u00e9tiers",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20137 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Solutions métiers",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–7 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/construction-site-signs.webp",
-    "imageAlt": "Construction Site Signs product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Construction Site Signs example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 31,
     "slug": "directional-signs",
     "name": "Directional Signs",
-    "nameFr": "Signal\u00e9tique directionnelle",
+    "nameFr": "Signalétique directionnelle",
     "category": "Industry Solutions",
     "tags": [
       "Indoor",
@@ -3959,7 +3989,7 @@
       "Schools"
     ],
     "description": "Clear wayfinding for campuses, events, parking, offices, job sites and temporary traffic flow.",
-    "descriptionFr": "Signal\u00e9tique directionnelle sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Signalétique directionnelle sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional directional signs for indoor projects",
       "Professional directional signs for outdoor projects",
@@ -3981,12 +4011,12 @@
       "outdoor": true
     },
     "sizes": [
-      "12 \u00d7 18 in",
-      "18 \u00d7 24 in",
-      "24 \u00d7 36 in"
+      "12 × 18 in",
+      "18 × 24 in",
+      "24 × 36 in"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3\u20135 business days",
+    "timeline": "3–5 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "online",
     "pricing": {
@@ -4071,20 +4101,21 @@
       "construction-site-signs",
       "restaurant-graphics"
     ],
-    "categoryFr": "Solutions m\u00e9tiers",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "3\u20135 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Solutions métiers",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "3–5 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/directional-signs.webp",
-    "imageAlt": "Directional Signs product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Directional Signs example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 32,
     "slug": "restaurant-graphics",
     "name": "Restaurant Graphics",
-    "nameFr": "Signal\u00e9tique pour restaurants",
+    "nameFr": "Signalétique pour restaurants",
     "category": "Industry Solutions",
     "tags": [
       "Indoor",
@@ -4094,7 +4125,7 @@
       "Restaurants"
     ],
     "description": "A coordinated graphics package for windows, walls, counters, pickup areas, promotions and customer flow.",
-    "descriptionFr": "Signal\u00e9tique pour restaurants sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Signalétique pour restaurants sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional restaurant graphics for indoor projects",
       "Professional restaurant graphics for outdoor projects",
@@ -4119,7 +4150,7 @@
       "Custom by space"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7\u201312 business days",
+    "timeline": "7–12 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -4205,14 +4236,15 @@
       "construction-site-signs",
       "directional-signs"
     ],
-    "categoryFr": "Solutions m\u00e9tiers",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "7\u201312 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Solutions métiers",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "7–12 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/restaurant-graphics.webp",
-    "imageAlt": "Restaurant Graphics product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Restaurant Graphics example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 33,
@@ -4226,8 +4258,8 @@
       "Retail",
       "Restaurants"
     ],
-    "description": "Readable, brand-aligned menu systems for restaurants, caf\u00e9s, food trucks and service counters.",
-    "descriptionFr": "Panneaux menus sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "description": "Readable, brand-aligned menu systems for restaurants, cafés, food trucks and service counters.",
+    "descriptionFr": "Panneaux menus sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional menu boards for indoor projects",
       "Professional menu boards for business projects",
@@ -4249,12 +4281,12 @@
       "outdoor": false
     },
     "sizes": [
-      "18 \u00d7 24 in",
-      "24 \u00d7 36 in",
+      "18 × 24 in",
+      "24 × 36 in",
       "Custom"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u201310 business days",
+    "timeline": "5–10 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -4340,20 +4372,21 @@
       "construction-site-signs",
       "directional-signs"
     ],
-    "categoryFr": "Solutions m\u00e9tiers",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u201310 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Solutions métiers",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–10 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/menu-boards.webp",
-    "imageAlt": "Menu Boards product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Menu Boards example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 34,
     "slug": "storefront-graphics",
     "name": "Storefront Graphics",
-    "nameFr": "Habillage de fa\u00e7ade commerciale",
+    "nameFr": "Habillage de façade commerciale",
     "category": "Industry Solutions",
     "tags": [
       "Indoor",
@@ -4363,7 +4396,7 @@
       "Restaurants"
     ],
     "description": "A unified storefront package that introduces the brand, promotes offers and improves street-level visibility.",
-    "descriptionFr": "Habillage de fa\u00e7ade commerciale sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Habillage de façade commerciale sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional storefront graphics for indoor projects",
       "Professional storefront graphics for outdoor projects",
@@ -4389,7 +4422,7 @@
       "Custom by storefront"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7\u201312 business days",
+    "timeline": "7–12 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -4475,20 +4508,21 @@
       "construction-site-signs",
       "directional-signs"
     ],
-    "categoryFr": "Solutions m\u00e9tiers",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "7\u201312 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "categoryFr": "Solutions métiers",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "7–12 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/storefront-graphics.webp",
-    "imageAlt": "Storefront Graphics product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Storefront Graphics example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   },
   {
     "id": 35,
     "slug": "screen-printing",
     "name": "Screen Printing",
-    "nameFr": "S\u00e9rigraphie textile",
+    "nameFr": "Sérigraphie textile",
     "category": "Apparel & Promo",
     "tags": [
       "Business",
@@ -4497,7 +4531,7 @@
       "Restaurants"
     ],
     "description": "Durable apparel printing for teams, businesses, brands, events and organizations that need consistent production.",
-    "descriptionFr": "S\u00e9rigraphie textile sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Sérigraphie textile sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional screen printing for business projects",
       "Professional screen printing for events projects",
@@ -4519,11 +4553,11 @@
       "outdoor": false
     },
     "sizes": [
-      "Youth\u20135XL",
+      "Youth–5XL",
       "Custom garment selection"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7\u201310 business days",
+    "timeline": "7–10 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -4609,13 +4643,14 @@
       "heat-transfer-vinyl"
     ],
     "categoryFr": "Textile et objets publicitaires",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "7\u201310 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "7–10 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/screen-printing.webp",
-    "imageAlt": "Screen Printing product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Screen Printing example",
+    "imageSource": "Wikimedia Commons — CC BY-SA 4.0",
+    "mediaStatus": "curated"
   },
   {
     "id": 36,
@@ -4630,7 +4665,7 @@
       "Restaurants"
     ],
     "description": "Premium thread decoration for uniforms, hats, outerwear and professional branded apparel.",
-    "descriptionFr": "Broderie textile sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Broderie textile sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional embroidery for business projects",
       "Professional embroidery for events projects",
@@ -4655,7 +4690,7 @@
       "Custom garment selection"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7\u201312 business days",
+    "timeline": "7–12 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -4741,13 +4776,14 @@
       "heat-transfer-vinyl"
     ],
     "categoryFr": "Textile et objets publicitaires",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "7\u201312 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "7–12 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/embroidery.webp",
-    "imageAlt": "Embroidery product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Embroidery example",
+    "imageSource": "Wikimedia Commons — CC BY-SA 4.0",
+    "mediaStatus": "curated"
   },
   {
     "id": 37,
@@ -4761,7 +4797,7 @@
       "Schools"
     ],
     "description": "Full-color apparel decoration for detailed artwork, smaller runs and flexible garment choices.",
-    "descriptionFr": "Impression DTF sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Impression DTF sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional dtf printing for business projects",
       "Professional dtf printing for events projects",
@@ -4782,11 +4818,11 @@
       "outdoor": false
     },
     "sizes": [
-      "Youth\u20135XL",
+      "Youth–5XL",
       "Custom garment selection"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20138 business days",
+    "timeline": "5–8 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -4871,13 +4907,14 @@
       "heat-transfer-vinyl"
     ],
     "categoryFr": "Textile et objets publicitaires",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20138 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–8 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/dtf-printing.webp",
-    "imageAlt": "DTF Printing product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "DTF Printing example",
+    "imageSource": "Wikimedia Commons — CC BY-SA 4.0",
+    "mediaStatus": "curated"
   },
   {
     "id": 38,
@@ -4891,7 +4928,7 @@
       "Schools"
     ],
     "description": "Crisp personalization for names, numbers, uniforms and short-run custom apparel.",
-    "descriptionFr": "Marquage textile en flex sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Marquage textile en flex sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional heat transfer vinyl for business projects",
       "Professional heat transfer vinyl for events projects",
@@ -4912,11 +4949,11 @@
       "outdoor": false
     },
     "sizes": [
-      "Youth\u20135XL",
+      "Youth–5XL",
       "Custom garment selection"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5\u20138 business days",
+    "timeline": "5–8 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -5001,19 +5038,20 @@
       "dtf-printing"
     ],
     "categoryFr": "Textile et objets publicitaires",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "5\u20138 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "5–8 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/heat-transfer-vinyl.webp",
-    "imageAlt": "Heat Transfer Vinyl product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Heat Transfer Vinyl example",
+    "imageSource": "Wikimedia Commons — CC BY-SA 4.0",
+    "mediaStatus": "curated"
   },
   {
     "id": 39,
     "slug": "promotional-products",
     "name": "Promotional Products",
-    "nameFr": "Objets publicitaires personnalis\u00e9s",
+    "nameFr": "Objets publicitaires personnalisés",
     "category": "Apparel & Promo",
     "tags": [
       "Business",
@@ -5022,7 +5060,7 @@
       "Trade Shows"
     ],
     "description": "Useful branded merchandise selected around your audience, campaign and distribution plan.",
-    "descriptionFr": "Objets publicitaires personnalis\u00e9s sur mesure pour entreprises, commerces, associations, \u00e9tablissements scolaires, \u00e9v\u00e9nements et projets professionnels. Choisissez le support, les dimensions et les finitions adapt\u00e9s \u00e0 l\u2019usage, puis transmettez votre fichier pour \u00e9tude et devis.",
+    "descriptionFr": "Objets publicitaires personnalisés sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
     "useCases": [
       "Professional promotional products for business projects",
       "Professional promotional products for events projects",
@@ -5048,7 +5086,7 @@
       "Product dependent"
     ],
     "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7\u201315 business days",
+    "timeline": "7–15 business days",
     "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
     "orderMode": "quote",
     "pricing": {
@@ -5134,12 +5172,13 @@
       "dtf-printing"
     ],
     "categoryFr": "Textile et objets publicitaires",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales d\u00e9pendent du support, des finitions, du fa\u00e7onnage et des contraintes de pose.",
-    "timelineFr": "7\u201315 jours ouvr\u00e9s",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d\u2019entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommand\u00e9. Images \u00e0 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectoris\u00e9es, fonds perdus et traits de coupe selon le produit. Un BAT peut \u00eatre transmis avant fabrication.",
+    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
+    "timelineFr": "7–15 jours ouvrés",
+    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
+    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "assets/images/products/promotional-products.webp",
-    "imageAlt": "Promotional Products product example",
-    "imageSource": "Signs365 supplier catalog"
+    "imageAlt": "Promotional Products example",
+    "imageSource": "Signs365 supplier catalog",
+    "mediaStatus": "curated"
   }
 ]

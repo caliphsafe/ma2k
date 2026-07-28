@@ -1,7 +1,6 @@
-# Homepage Storefront Reset
+# Curated Product Media Patch
 
-Replace:
-- `index.html`
-- `assets/css/style.css`
+Upload all files and folders in this patch.
 
-This version removes the oversized split editorial category layout and replaces it with a compact category storefront using responsive 4/2/1-column product rails. Long product titles receive dedicated height and are never forced into narrow vertical word stacks.
+Replaces every product image in `assets/images/products/` and updates `data/products.json`.
+The storefront image loader and styles are included so cards and product pages use consistent responsive crops.
