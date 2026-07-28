@@ -226,3 +226,102 @@ main,section,footer{max-width:100%;min-width:0}
   .brand-mark{width:20px;height:20px;flex-basis:20px}
   .language-switch button{padding:6px 7px}
 }
+
+/* =========================================================
+   FINAL VIEWPORT-SAFE PAGE SHELL — July 28, 2026
+   This block intentionally comes last and supersedes all
+   earlier container/header width rules.
+   ========================================================= */
+:root{
+  --site-max:1360px;
+  --site-gutter:24px;
+}
+
+html{
+  width:100%;
+  max-width:100%;
+  overflow-x:hidden!important;
+}
+body{
+  width:100%;
+  max-width:100%;
+  min-width:0!important;
+  overflow-x:hidden!important;
+}
+
+/* Use padding on a 100% wrapper instead of subtracting width.
+   This avoids zoom/scrollbar rounding and intrinsic-width overflow. */
+.container{
+  width:100%!important;
+  max-width:var(--site-max)!important;
+  min-width:0!important;
+  margin-inline:auto!important;
+  padding-inline:var(--site-gutter)!important;
+}
+
+.site-header{
+  width:100%;
+  max-width:100%;
+  overflow:visible;
+}
+.site-header>.container{
+  width:100%!important;
+  max-width:calc(var(--site-max) + (var(--site-gutter) * 2))!important;
+}
+.nav-shell{
+  width:100%!important;
+  max-width:100%!important;
+  min-width:0!important;
+  display:flex!important;
+  align-items:center;
+  overflow:hidden;
+}
+.brand{flex:0 1 auto;min-width:0}
+.nav-links{flex:1 1 auto;min-width:0}
+.nav-actions{flex:0 0 auto;min-width:0}
+.nav-quote{max-width:190px;white-space:nowrap}
+
+/* Every direct page region must stay inside its own containing block. */
+main,section,footer,
+.hero,.page-hero,.commerce-hero,.commerce-section,.quote-band,.full-bleed{
+  width:100%;
+  max-width:100%;
+  min-width:0;
+}
+main>*{min-width:0;max-width:100%}
+
+/* Do not let transformed/positioned content define a wider scroll area. */
+img,svg,video,canvas,iframe{max-width:100%;height:auto}
+:is(.hero-grid,.page-hero-grid,.home-hero-grid,.finder-shell,.finder-grid,
+.capability-rail,.split-story,.catalog-shell,.catalog-grid,.product-layout,
+.editorial-grid,.admin-shell,.admin-product,.admin-filters)>*{
+  min-width:0!important;
+  max-width:100%!important;
+}
+
+/* Desktop navigation collapses before any label or quote button can push it. */
+@media (max-width:1480px){
+  .nav-links{display:none!important}
+  .menu-toggle{display:block!important}
+  .nav-actions>.nav-quote,.nav-actions>.btn{display:none!important}
+  .nav-shell{justify-content:space-between}
+  .nav-links.open{
+    display:flex!important;
+    position:fixed!important;
+    top:86px!important;
+    left:var(--site-gutter)!important;
+    right:var(--site-gutter)!important;
+    width:auto!important;
+    max-width:calc(100% - (var(--site-gutter) * 2))!important;
+    padding:22px!important;
+    overflow-y:auto!important;
+    overflow-x:hidden!important;
+  }
+}
+
+@media (max-width:700px){
+  :root{--site-gutter:12px}
+  .site-header>.container{padding-inline:8px!important}
+  .nav-shell{overflow:visible;padding-inline:12px!important}
+  .nav-links.open{top:70px!important;left:10px!important;right:10px!important;max-width:calc(100% - 20px)!important}
+}
