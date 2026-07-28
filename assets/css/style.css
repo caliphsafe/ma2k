@@ -188,3 +188,41 @@ input,select,textarea,button{max-width:100%;min-width:0}
 .nav-links,.nav-actions,.hero-actions,.section-actions,.admin-toolbar-actions{min-width:0;max-width:100%}
 .full-bleed{max-width:calc(100% - 20px)}
 @media(max-width:700px){.full-bleed{width:calc(100% - 12px);max-width:calc(100% - 12px)}}
+
+
+/* Launch-width architecture — July 2026 */
+html{overflow-x:hidden}
+body{overflow-x:hidden}
+.container{width:calc(100% - 40px);max-width:var(--max);min-width:0;margin-inline:auto}
+.site-header,.site-header .container{max-width:100%;min-width:0}
+.nav-shell{display:flex;align-items:center;width:100%;max-width:100%;min-width:0;gap:clamp(12px,2vw,28px)}
+.brand{flex:0 1 auto;min-width:0;white-space:nowrap}
+.nav-links{flex:1 1 auto;min-width:0;gap:clamp(12px,1.7vw,24px)}
+.nav-links a{white-space:nowrap}
+.nav-actions{flex:0 0 auto;min-width:0}
+.nav-quote{white-space:nowrap}
+main,section,footer{max-width:100%;min-width:0}
+
+/* Collapse before navigation can force the viewport wider. */
+@media(max-width:1220px){
+  .nav-links{display:none}
+  .menu-toggle{display:block}
+  .nav-actions>.btn{display:none}
+  .nav-shell{justify-content:space-between}
+  .nav-links.open{display:flex;position:absolute;top:76px;left:max(12px,calc((100vw - var(--max))/2 + 20px));right:max(12px,calc((100vw - var(--max))/2 + 20px));width:auto;max-width:none;min-width:0;background:rgba(247,245,240,.97);backdrop-filter:blur(24px);border:1px solid rgba(0,0,0,.08);border-radius:24px;padding:24px;flex-direction:column;align-items:stretch;gap:0;box-shadow:var(--shadow)}
+  .nav-links.open a{white-space:normal;padding:14px 4px;border-bottom:1px solid var(--line)}
+  .nav-links.open a:last-child{border-bottom:0}
+}
+@media(max-width:700px){
+  .container{width:calc(100% - 24px)}
+  .nav-shell{gap:8px}
+  .brand{font-size:15px}
+  .brand-mark{flex:0 0 23px}
+  .language-switch{flex:0 0 auto}
+  .nav-links.open{top:66px;left:12px;right:12px}
+}
+@media(max-width:370px){
+  .brand{font-size:14px;letter-spacing:-.04em}
+  .brand-mark{width:20px;height:20px;flex-basis:20px}
+  .language-switch button{padding:6px 7px}
+}
