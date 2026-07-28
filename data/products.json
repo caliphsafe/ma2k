@@ -127,8 +127,9 @@
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "https://s1-ecp.signs.com/5528/583x357/thumbnail_Frame%201526.jpg",
-    "imageAlt": "Banners example product",
-    "mediaStatus": "direct-remote-image"
+    "imageAlt": "Finished custom vinyl banner on display",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/banners/"
   },
   {
     "id": 2,
@@ -260,8 +261,9 @@
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "https://s1-ecp.signs.com/1458/583x357/Yard-signs-landscaping-business-sqs-11008.jpg",
-    "imageAlt": "Yard Signs example product",
-    "mediaStatus": "direct-remote-image"
+    "imageAlt": "Finished yard signs installed outdoors",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/yard-signs/"
   },
   {
     "id": 3,
@@ -396,9 +398,10 @@
     "timelineFr": "3–5 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3680/583x357/Aluminum-Vibrant-775x475-15031.jpg",
-    "imageAlt": "Coroplast Signs example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/1458/583x357/Yard-signs-landscaping-business-sqs-11008.jpg",
+    "imageAlt": "Corrugated plastic sign displayed outdoors",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/yard-signs/"
   },
   {
     "id": 4,
@@ -530,9 +533,10 @@
     "timelineFr": "5–7 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3684/583x357/Aluminum-restaurant-775x475-15035.jpg",
-    "imageAlt": "Aluminum Signs example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3768/Signs-Aluminum-2017-02-2372.png",
+    "imageAlt": "Finished aluminum sign mounted outdoors",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/aluminum-3/"
   },
   {
     "id": 5,
@@ -666,9 +670,10 @@
     "timelineFr": "5–7 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3677/583x357/Aluminum-Material-775x475-15030.jpg",
-    "imageAlt": "PVC Signs example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3701/583x357/Plastic-Signs-Product-Image-1-16053.jpg",
+    "imageAlt": "Finished PVC plastic business sign",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/plastic-signs/"
   },
   {
     "id": 6,
@@ -800,9 +805,10 @@
     "timelineFr": "7–10 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3840/583x357/Wall-decal-business-logo2-sqs-10822.jpg",
-    "imageAlt": "Acrylic Signs example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/sms/Acrylic-Room-Name-16070.jpg",
+    "imageAlt": "Finished acrylic office sign",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/acrylic/"
   },
   {
     "id": 7,
@@ -934,9 +940,10 @@
     "timelineFr": "3–5 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3676/583x357/Aluminum-Drilled-Holes-775x475-2-15027.jpg",
-    "imageAlt": "Foam Board example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/sms/Foamboard-chart-display-10937.jpg",
+    "imageAlt": "Finished foam board display sign",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/foamboard/"
   },
   {
     "id": 8,
@@ -1067,9 +1074,10 @@
     "timelineFr": "2–4 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3683/583x357/Aluminum-parking-775x475-2-15034.jpg",
-    "imageAlt": "Posters example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3331/Standard-Poster-460x350-16050.jpg",
+    "imageAlt": "Finished printed poster display",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/posters/"
   },
   {
     "id": 9,
@@ -1199,9 +1207,10 @@
     "timelineFr": "5–7 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/2994/583x357/Perforated-Window-Decal-Fitness-Center-SQS-11642%20%281%29.jpg",
-    "imageAlt": "Window Graphics example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/1243/Custom-Window-Decals-ClearDecal-420x348-7817.jpg",
+    "imageAlt": "Finished storefront window graphic",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/window-decals/"
   },
   {
     "id": 10,
@@ -1329,8 +1338,9 @@
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "https://s1-ecp.signs.com/2994/583x357/Perforated-Window-Decal-Fitness-Center-SQS-11642%20%281%29.jpg",
-    "imageAlt": "Window Perforated Vinyl example product",
-    "mediaStatus": "direct-remote-image"
+    "imageAlt": "Perforated window vinyl installed on storefront glass",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/perforated-window-decals/"
   },
   {
     "id": 11,
@@ -1460,9 +1470,10 @@
     "timelineFr": "3–5 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3840/583x357/Wall-decal-business-logo2-sqs-10822.jpg",
-    "imageAlt": "Window Clings example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/4147/583x357/clear-window-cling-storefront-sale-16625.jpg",
+    "imageAlt": "Finished window cling applied to storefront glass",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/clear-window-clings/"
   },
   {
     "id": 12,
@@ -1592,9 +1603,10 @@
     "timelineFr": "5–10 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3840/583x357/Wall-decal-business-logo2-sqs-10822.jpg",
-    "imageAlt": "Wall Graphics example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3845/583x357/Wall-decal-gym-motivation-sqs-10825.jpg",
+    "imageAlt": "Finished wall graphic installed in an interior space",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/wall-decals/"
   },
   {
     "id": 13,
@@ -1724,9 +1736,10 @@
     "timelineFr": "5–7 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/1602/583x357/A-Frames-Composite-Hero-775x475-14591.jpg",
-    "imageAlt": "Floor Graphics example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/2937/583x357/775x475-Floor-Decal-Mock-13596.jpg",
+    "imageAlt": "Finished floor graphic decal in a retail environment",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/floor-decals/"
   },
   {
     "id": 14,
@@ -1852,8 +1865,9 @@
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "https://s1-ecp.signs.com/3682/583x357/standard-1-15055.jpg",
-    "imageAlt": "Vehicle Magnets example product",
-    "mediaStatus": "direct-remote-image"
+    "imageAlt": "Finished vehicle magnet applied to a car door",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/car-magnets/"
   },
   {
     "id": 15,
@@ -1979,9 +1993,10 @@
     "timelineFr": "5–7 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3684/583x357/Aluminum-restaurant-775x475-15035.jpg",
-    "imageAlt": "Vehicle Lettering example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/4029/583x357/Car-Truck-Lettering-Product-Image-1-16438.jpg",
+    "imageAlt": "Finished vinyl lettering applied to a work vehicle",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/car-and-truck-lettering/"
   },
   {
     "id": 16,
@@ -2105,9 +2120,10 @@
     "timelineFr": "7–12 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3680/583x357/Aluminum-Vibrant-775x475-15031.jpg",
-    "imageAlt": "Partial Vehicle Wraps example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/4076/583x357/Fleet-Graphics-Van-Example-16531.jpg",
+    "imageAlt": "Partial vehicle graphic installed on a commercial van",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/fleet-graphics"
   },
   {
     "id": 17,
@@ -2231,9 +2247,10 @@
     "timelineFr": "10–15 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3683/583x357/Aluminum-parking-775x475-2-15034.jpg",
-    "imageAlt": "Full Vehicle Wraps example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/4076/583x357/Fleet-Graphics-Van-Example-16531.jpg",
+    "imageAlt": "Finished vehicle wrap on a commercial van",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/fleet-graphics"
   },
   {
     "id": 18,
@@ -2361,9 +2378,10 @@
     "timelineFr": "3–5 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3678/583x357/Aluminum-Custom-Shape-775x475-15028.jpg",
-    "imageAlt": "Contour Cut Decals example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3708/583x357/Custom-Decals-Product-Image-1-16092.jpg",
+    "imageAlt": "Contour cut decals shown as finished printed graphics",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/custom-decals/"
   },
   {
     "id": 19,
@@ -2497,9 +2515,10 @@
     "timelineFr": "3–5 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3678/583x357/Aluminum-Custom-Shape-775x475-15028.jpg",
-    "imageAlt": "Stickers example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3708/583x357/Custom-Decals-Product-Image-1-16092.jpg",
+    "imageAlt": "Finished custom stickers and decals",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/custom-decals/"
   },
   {
     "id": 20,
@@ -2628,9 +2647,10 @@
     "timelineFr": "5–7 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3678/583x357/Aluminum-Custom-Shape-775x475-15028.jpg",
-    "imageAlt": "Labels example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3776/583x357/Roll-labels-bottle-of-hot-sauce-15881.jpg",
+    "imageAlt": "Finished product label applied to packaging",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/roll-labels/"
   },
   {
     "id": 21,
@@ -2756,9 +2776,10 @@
     "timelineFr": "5–7 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3681/583x357/Aluminum-Waterproof-775x475-15032.jpg",
-    "imageAlt": "Canvas Prints example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3532/583x357/Canvas-Prints-Product-Image-1-15653.jpg",
+    "imageAlt": "Finished canvas print wall display",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/canvas-prints/"
   },
   {
     "id": 22,
@@ -2889,9 +2910,10 @@
     "timelineFr": "7–12 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/1602/583x357/A-Frames-Composite-Hero-775x475-14591.jpg",
-    "imageAlt": "Trade Show Displays example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3791/583x357/Retractable-Banner-Standard-Product-Features-1-Setup-15966.jpg",
+    "imageAlt": "Finished trade show display setup",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/retractable-banners/"
   },
   {
     "id": 23,
@@ -3020,9 +3042,10 @@
     "timelineFr": "5–7 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/5528/583x357/thumbnail_Frame%201526.jpg",
-    "imageAlt": "Retractable Banner Stands example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3791/583x357/Retractable-Banner-Standard-Product-Features-1-Setup-15966.jpg",
+    "imageAlt": "Finished retractable banner stand",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/retractable-banners/"
   },
   {
     "id": 24,
@@ -3153,9 +3176,10 @@
     "timelineFr": "7–10 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/5528/583x357/thumbnail_Frame%201526.jpg",
-    "imageAlt": "Table Covers example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/4227/583x357/Table-Covers-AL-Hero-10927.jpg",
+    "imageAlt": "Finished branded table cover at a display table",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/table-covers/"
   },
   {
     "id": 25,
@@ -3282,9 +3306,10 @@
     "timelineFr": "7–10 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/1602/583x357/A-Frames-Composite-Hero-775x475-14591.jpg",
-    "imageAlt": "Feather Flags example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/5525/583x357/Feather-Flag-Banner-Product-Image-1-16875.jpg",
+    "imageAlt": "Finished feather flag banner displayed outdoors",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/feather-flags/"
   },
   {
     "id": 26,
@@ -3410,9 +3435,10 @@
     "timelineFr": "7–10 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/1602/583x357/A-Frames-Composite-Hero-775x475-14591.jpg",
-    "imageAlt": "Teardrop Flags example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/5526/583x357/Teardrop-Flag-Banner-Product-Image-1-16882.jpg",
+    "imageAlt": "Finished teardrop flag banner displayed outdoors",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/teardrop-flags/"
   },
   {
     "id": 27,
@@ -3544,9 +3570,10 @@
     "timelineFr": "7–10 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/5528/583x357/thumbnail_Frame%201526.jpg",
-    "imageAlt": "Backdrops example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/4235/583x357/Step-and-Repeat-Banner-Product-Image-1-16604.jpg",
+    "imageAlt": "Finished step-and-repeat event backdrop",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/step-and-repeat-banners/"
   },
   {
     "id": 28,
@@ -3678,8 +3705,9 @@
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "https://s1-ecp.signs.com/1602/583x357/A-Frames-Composite-Hero-775x475-14591.jpg",
-    "imageAlt": "A-Frame Signs example product",
-    "mediaStatus": "direct-remote-image"
+    "imageAlt": "Finished A-frame sidewalk sign",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/a-frames/"
   },
   {
     "id": 29,
@@ -3808,9 +3836,10 @@
     "timelineFr": "5–7 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3682/583x357/standard-1-15055.jpg",
-    "imageAlt": "Real Estate Signs example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3836/583x357/Real-Estate-Signs-Product-Image-1-16164.jpg",
+    "imageAlt": "Finished real estate sign installed outside",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/real-estate-signs/"
   },
   {
     "id": 30,
@@ -3940,9 +3969,10 @@
     "timelineFr": "5–7 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3683/583x357/Aluminum-parking-775x475-2-15034.jpg",
-    "imageAlt": "Construction Site Signs example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3768/Signs-Aluminum-2017-02-2372.png",
+    "imageAlt": "Finished durable jobsite sign",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/aluminum-3/"
   },
   {
     "id": 31,
@@ -4076,9 +4106,10 @@
     "timelineFr": "3–5 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3683/583x357/Aluminum-parking-775x475-2-15034.jpg",
-    "imageAlt": "Directional Signs example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3768/Signs-Aluminum-2017-02-2372.png",
+    "imageAlt": "Finished directional sign mounted outdoors",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/aluminum-3/"
   },
   {
     "id": 32,
@@ -4211,8 +4242,9 @@
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "https://s1-ecp.signs.com/3684/583x357/Aluminum-restaurant-775x475-15035.jpg",
-    "imageAlt": "Restaurant Graphics example product",
-    "mediaStatus": "direct-remote-image"
+    "imageAlt": "Finished restaurant sign and graphics",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/restaurant-signs/"
   },
   {
     "id": 33,
@@ -4345,9 +4377,10 @@
     "timelineFr": "5–10 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3684/583x357/Aluminum-restaurant-775x475-15035.jpg",
-    "imageAlt": "Menu Boards example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/4227/583x357/Table-Covers-AL-Hero-10927.jpg",
+    "imageAlt": "Finished menu and hospitality display graphics",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/restaurant-signs/"
   },
   {
     "id": 34,
@@ -4481,8 +4514,9 @@
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
     "image": "https://s1-ecp.signs.com/2994/583x357/Perforated-Window-Decal-Fitness-Center-SQS-11642%20%281%29.jpg",
-    "imageAlt": "Storefront Graphics example product",
-    "mediaStatus": "direct-remote-image"
+    "imageAlt": "Finished storefront window graphics",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/perforated-window-decals/"
   },
   {
     "id": 35,
@@ -4613,9 +4647,10 @@
     "timelineFr": "7–10 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Screen%20Printing%20machine.jpg",
-    "imageAlt": "Screen Printing example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://www.customink.com/mms/images/catalog/styles/110600/catalog_detail_image_large.jpg",
+    "imageAlt": "Finished custom printed t-shirt example",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.customink.com/products/t-shirts/4"
   },
   {
     "id": 36,
@@ -4745,9 +4780,10 @@
     "timelineFr": "7–12 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Women%20Creating%20Clothing.jpg",
-    "imageAlt": "Embroidery example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://cdn.shopify.com/s/files/1/0751/9302/4794/files/embroidered-polo-shirts-caps-jackets-with-logo_480x480.jpg?v=1760322137",
+    "imageAlt": "Finished embroidered polos, caps and jackets",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://simplymerchandise.com.au/pages/custom-embroidery-logo-services"
   },
   {
     "id": 37,
@@ -4875,9 +4911,10 @@
     "timelineFr": "5–8 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Screen%20Printing%20machine.jpg",
-    "imageAlt": "DTF Printing example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://assets.stahls.com/stahls/content/images/landing-pages/cad-cut-category/PopularUses-HTV.webp",
+    "imageAlt": "Finished full-color heat-transfer apparel examples",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.stahls.com/heat-transfer-vinyl"
   },
   {
     "id": 38,
@@ -5005,9 +5042,10 @@
     "timelineFr": "5–8 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Women%20Creating%20Clothing.jpg",
-    "imageAlt": "Heat Transfer Vinyl example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://assets.stahls.com/stahls/content/images/landing-pages/cad-cut-category/WhyChoose-HTV.webp",
+    "imageAlt": "Finished heat-transfer vinyl apparel applications",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.stahls.com/heat-transfer-vinyl"
   },
   {
     "id": 39,
@@ -5138,8 +5176,9 @@
     "timelineFr": "7–15 jours ouvrés",
     "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
     "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3681/583x357/Aluminum-Waterproof-775x475-15032.jpg",
-    "imageAlt": "Promotional Products example product",
-    "mediaStatus": "direct-remote-image"
+    "image": "https://s1-ecp.signs.com/3776/583x357/Roll-labels-bottle-of-hot-sauce-15881.jpg",
+    "imageAlt": "Finished branded promotional product example",
+    "mediaStatus": "direct-finished-example",
+    "imageSourcePage": "https://www.signs.com/roll-labels/"
   }
 ]

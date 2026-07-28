@@ -1,20 +1,14 @@
-# Customer-ready direct product image patch
+# MA2K Better Product Image Examples Patch
 
-## Corrected behavior
+This patch replaces the previous weak/mismatched product imagery with direct image-file URLs that show finished examples of the product being offered.
 
-- Product images use direct remote image-file URLs, not screenshots of vendor pages.
-- No vendor/source link is shown in the customer interface.
-- Images render on homepage product cards, catalog cards, individual product pages and related-product cards.
-- Existing hero background images and their folder are untouched.
-- Broken external images fall back to a clean product placeholder.
-
-## Upload
-
-Replace:
+Upload and replace:
 
 - `data/products.json`
 - `assets/js/storefront.js`
 - `assets/css/storefront.css`
 - `index.html`
 
-Keep `PRODUCT-IMAGE-URLS.md` as the editable image reference list.
+Also upload `PRODUCT-IMAGE-URLS.md` for your editable image reference list.
+
+The page hero background system remains separate and unchanged. Product images render in homepage cards, catalog cards, individual product pages, and related-product cards.
