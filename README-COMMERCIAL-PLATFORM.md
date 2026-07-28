@@ -1,21 +1,28 @@
-# MA2K Impression — Commercial Print Platform 43 Build
+# MA2K Impression — Unified Commercial Platform 43 Build
 
-This build expands the existing bilingual MA2K site into a scalable commercial print, signage, apparel and promotional-products catalog.
+MA2K is presented throughout as one full-service commercial printing, signage, graphics, apparel-decoration and promotional-products company.
 
-## New public routes
-- `catalog.html` — searchable, filterable catalog
-- `products/<slug>.html` — clean, SEO-ready product pages generated from reusable product data
+## Catalog and pricing
+- `data/products.json` is the product source of truth.
+- The public configurator uses placeholder planning formulas until MA2K pricing is approved.
+- `/admin/` is prepared for authenticated pricing management by `babaoussou@gmail.com` and `caliph.safe@gmail.com`.
+- Connect Supabase Auth and a pricing table before enabling admin writes.
 
-## Data architecture
-- `data/products.json` is the single source of truth for product descriptions, options, use cases, timelines, FAQs, related products, order mode and placeholder pricing.
-- `assets/js/storefront.js` powers search, filtering, bilingual product UI, file validation, live summaries and placeholder estimates.
-- `assets/css/storefront.css` contains storefront-only styling.
+## Payments
+- `api/checkout.js` contains provider routing for future Square and Orange Money Web Payment integrations.
+- Square credentials remain server-side.
+- Orange Money availability, currency and merchant onboarding vary by market; enable only approved countries.
+- Never expose payment secrets in `assets/js/config.js`.
 
-## Placeholder pricing
-The displayed estimate is intentionally a planning estimate. Replace each product's `pricing` object with MA2K rates or connect the configurator to Shopify, Printavo, PrintFlow, Supabase, Stripe or a custom pricing service.
+## Images
+No third-party copyrighted images are included. Add MA2K-owned, commissioned or properly licensed work photography to the existing image folders.
 
-## Artwork
-The browser accepts PDF, AI, EPS, SVG, PSD, PNG and JPG files up to 50 MB and validates file type before the customer continues. Connect final binary storage to Supabase Storage, Shopify files, or another approved storage provider before production launch.
+## Required environment variables
+SUPABASE_URL
+SUPABASE_SERVICE_ROLE_KEY
+SQUARE_ACCESS_TOKEN
+SQUARE_LOCATION_ID
+ORANGE_MONEY_CLIENT_ID
+ORANGE_MONEY_CLIENT_SECRET
 
-## Deployment
-Upload all files to the repository root and deploy through Vercel. No `package-lock.json` is included or required.
+No package-lock.json is included.
