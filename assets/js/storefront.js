@@ -24,22 +24,16 @@ function productCategory(product) {
 function imageMarkup(product, className = 'product-card-media', eager = false) {
   const name = productName(product);
   const image = product.image || '';
-  const source = product.imageSource || '';
   const loading = eager ? 'eager' : 'lazy';
   return `
     <figure class="${className}" data-product-media>
       <img
         src="${image}"
-        alt="${product.imageAlt || `${name} example`}" 
+        alt="${product.imageAlt || `${name} example product`}" 
         loading="${loading}"
         decoding="async"
-        referrerpolicy="no-referrer"
         data-external-product-image
       >
-      <figcaption>
-        <span>${name}</span>
-        ${source ? `<a href="${source}" target="_blank" rel="noopener noreferrer" aria-label="View image source for ${name}">Source</a>` : ''}
-      </figcaption>
       <div class="product-media-fallback" aria-hidden="true">
         <strong>${name}</strong>
         <span>Product image unavailable</span>
@@ -195,7 +189,7 @@ function renderProductMedia() {
       <span class="card-category">${productCategory(product)}</span>
       <h2>${productName(product)}</h2>
       <p>${productDescription(product)}</p>
-      <a class="text-link" href="${product.imageSource || '#'}" target="_blank" rel="noopener noreferrer">View media source</a>
+
     </div>`;
   activateMediaFallbacks(showcase);
 }

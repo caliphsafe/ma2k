@@ -1,25 +1,20 @@
-# MA2K Product Image Rendering 43 Build Patch
+# Customer-ready direct product image patch
 
-This patch fixes the missing external product imagery by rendering each product's `image` field in every customer-facing product component.
+## Corrected behavior
 
-## Replace
+- Product images use direct remote image-file URLs, not screenshots of vendor pages.
+- No vendor/source link is shown in the customer interface.
+- Images render on homepage product cards, catalog cards, individual product pages and related-product cards.
+- Existing hero background images and their folder are untouched.
+- Broken external images fall back to a clean product placeholder.
 
-- `index.html`
+## Upload
+
+Replace:
+
+- `data/products.json`
 - `assets/js/storefront.js`
 - `assets/css/storefront.css`
-- `data/products.json`
+- `index.html`
 
-## Product images now appear in
-
-- Homepage featured-product cards
-- Products catalog cards
-- Individual product/order pages
-- Related-product cards
-
-## Hero backgrounds
-
-This patch does not modify page hero-background folders or hero-background CSS. Product imagery remains a separate media layer.
-
-## External media behavior
-
-Each image uses the URL stored in `data/products.json`. The source link remains available on the visible image caption and on the individual product page. If an external host blocks an image or removes it, the card displays a clean product-name fallback rather than a broken-image icon.
+Keep `PRODUCT-IMAGE-URLS.md` as the editable image reference list.
