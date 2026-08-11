@@ -1,5184 +1,704 @@
 [
   {
-    "id": 1,
-    "slug": "banners",
-    "name": "Banners",
-    "nameFr": "Bâches publicitaires",
+    "id": "vinyl-banner",
+    "name": "Vinyl Banners",
     "category": "Banners & Displays",
     "tags": [
       "Outdoor",
-      "Business",
       "Events",
-      "Construction",
-      "Schools"
+      "Business"
     ],
-    "description": "Flexible, high-impact graphics for storefronts, events, construction fencing and community programs.",
-    "descriptionFr": "Bâches publicitaires sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional banners for outdoor projects",
-      "Professional banners for business projects",
-      "Professional banners for events projects"
-    ],
+    "mode": "estimate",
+    "from": 48,
+    "unit": "project",
+    "description": "Durable full-color banners for storefronts, events, fences, stages and temporary promotions.",
     "materials": [
-      "13 oz Standard Vinyl",
-      "15 oz Heavy-Duty Vinyl",
-      "Mesh Banner"
+      "13 oz Vinyl",
+      "18 oz Heavy-Duty Vinyl",
+      "Mesh Vinyl"
     ],
-    "finishes": [
-      "Matte",
-      "Gloss",
-      "Hemmed edges",
-      "Reinforced corners"
-    ],
-    "suitability": {
-      "indoor": false,
-      "outdoor": true
-    },
     "sizes": [
       "2 × 4 ft",
       "3 × 6 ft",
-      "4 × 8 ft"
+      "4 × 8 ft",
+      "Custom"
     ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3–5 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 28,
-      "sqftRate": 3.7,
-      "unitRate": 0.55,
-      "minimum": 45
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "13 oz Standard Vinyl",
-        "15 oz Heavy-Duty Vinyl",
-        "Mesh Banner"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can banners be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
+    "finishes": [
+      "Hem + Grommets",
+      "Pole Pockets",
+      "Wind Slits",
+      "No Finishing"
     ],
-    "related": [],
-    "categoryFr": "Bâches et supports de communication",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "3–5 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/5528/583x357/thumbnail_Frame%201526.jpg",
-    "imageAlt": "Finished custom vinyl banner on display",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/banners/"
+    "lead": "3–5 business days"
   },
   {
-    "id": 2,
-    "slug": "yard-signs",
+    "id": "yard-signs",
     "name": "Yard Signs",
-    "nameFr": "Panneaux de jardin",
-    "category": "Rigid Signs",
+    "category": "Signs",
     "tags": [
       "Outdoor",
-      "Business",
-      "Events",
-      "Construction",
       "Real Estate",
+      "Construction",
       "Schools"
     ],
-    "description": "Lightweight campaign and directional signs built for lawns, roadside visibility and short-term outdoor messaging.",
-    "descriptionFr": "Panneaux de jardin sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional yard signs for outdoor projects",
-      "Professional yard signs for business projects",
-      "Professional yard signs for events projects"
-    ],
+    "mode": "order",
+    "from": 22,
+    "unit": "each",
+    "description": "Coroplast yard signs for campaigns, real estate, directional signage, events and job sites.",
     "materials": [
-      "4 mm Corrugated Plastic",
-      "6 mm Corrugated Plastic"
+      "4mm Coroplast",
+      "6mm Coroplast"
     ],
-    "finishes": [
-      "Matte",
-      "Gloss",
-      "H-stakes",
-      "Double-sided printing"
-    ],
-    "suitability": {
-      "indoor": false,
-      "outdoor": true
-    },
-    "sizes": [
-      "18 × 24 in",
-      "24 × 36 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3–5 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 32,
-      "sqftRate": 4.15,
-      "unitRate": 0.75,
-      "minimum": 55
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "4 mm Corrugated Plastic",
-        "6 mm Corrugated Plastic"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can yard signs be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "coroplast-signs",
-      "aluminum-signs",
-      "pvc-signs"
-    ],
-    "categoryFr": "Panneaux rigides",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "3–5 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/1458/583x357/Yard-signs-landscaping-business-sqs-11008.jpg",
-    "imageAlt": "Finished yard signs installed outdoors",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/yard-signs/"
-  },
-  {
-    "id": 3,
-    "slug": "coroplast-signs",
-    "name": "Coroplast Signs",
-    "nameFr": "Panneaux alvéolaires",
-    "category": "Rigid Signs",
-    "tags": [
-      "Indoor",
-      "Outdoor",
-      "Business",
-      "Events",
-      "Construction",
-      "Real Estate",
-      "Schools"
-    ],
-    "description": "Versatile corrugated-plastic signage for promotions, presentations, wayfinding and temporary installations.",
-    "descriptionFr": "Panneaux alvéolaires sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional coroplast signs for indoor projects",
-      "Professional coroplast signs for outdoor projects",
-      "Professional coroplast signs for business projects"
-    ],
-    "materials": [
-      "4 mm Corrugated Plastic",
-      "6 mm Corrugated Plastic",
-      "10 mm Corrugated Plastic"
-    ],
-    "finishes": [
-      "Matte",
-      "Gloss",
-      "Contour cut",
-      "Grommets"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": true
-    },
     "sizes": [
       "18 × 24 in",
       "24 × 36 in",
-      "48 × 96 in"
+      "Custom"
     ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3–5 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 36,
-      "sqftRate": 4.6,
-      "unitRate": 0.9500000000000001,
-      "minimum": 65
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "4 mm Corrugated Plastic",
-        "6 mm Corrugated Plastic",
-        "10 mm Corrugated Plastic"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can coroplast signs be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
+    "finishes": [
+      "H-Stakes",
+      "Double-Sided",
+      "Contour Cut"
     ],
-    "related": [
-      "yard-signs",
-      "aluminum-signs",
-      "pvc-signs"
-    ],
-    "categoryFr": "Panneaux rigides",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "3–5 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/1458/583x357/Yard-signs-landscaping-business-sqs-11008.jpg",
-    "imageAlt": "Corrugated plastic sign displayed outdoors",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/yard-signs/"
+    "lead": "3–5 business days"
   },
   {
-    "id": 4,
-    "slug": "aluminum-signs",
+    "id": "aluminum-signs",
     "name": "Aluminum Signs",
-    "nameFr": "Panneaux en aluminium composite",
-    "category": "Rigid Signs",
-    "tags": [
-      "Outdoor",
-      "Business",
-      "Construction",
-      "Real Estate",
-      "Retail",
-      "Restaurants"
-    ],
-    "description": "Durable, professional signage for long-term exterior identification, property notices and branded environments.",
-    "descriptionFr": "Panneaux en aluminium composite sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional aluminum signs for outdoor projects",
-      "Professional aluminum signs for business projects",
-      "Professional aluminum signs for construction projects"
-    ],
-    "materials": [
-      "Aluminum Composite",
-      "Solid Aluminum"
-    ],
-    "finishes": [
-      "Matte",
-      "Gloss",
-      "Protective laminate",
-      "Rounded corners"
-    ],
-    "suitability": {
-      "indoor": false,
-      "outdoor": true
-    },
-    "sizes": [
-      "12 × 18 in",
-      "18 × 24 in",
-      "24 × 36 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–7 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 40,
-      "sqftRate": 5.05,
-      "unitRate": 1.15,
-      "minimum": 75
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Aluminum Composite",
-        "Solid Aluminum"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can aluminum signs be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "yard-signs",
-      "coroplast-signs",
-      "pvc-signs"
-    ],
-    "categoryFr": "Panneaux rigides",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–7 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3768/Signs-Aluminum-2017-02-2372.png",
-    "imageAlt": "Finished aluminum sign mounted outdoors",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/aluminum-3/"
-  },
-  {
-    "id": 5,
-    "slug": "pvc-signs",
-    "name": "PVC Signs",
-    "nameFr": "Panneaux en PVC expansé",
-    "category": "Rigid Signs",
-    "tags": [
-      "Indoor",
-      "Outdoor",
-      "Business",
-      "Retail",
-      "Restaurants",
-      "Trade Shows"
-    ],
-    "description": "Smooth, substantial rigid signs for interior branding, menus, displays and protected outdoor applications.",
-    "descriptionFr": "Panneaux en PVC expansé sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional pvc signs for indoor projects",
-      "Professional pvc signs for outdoor projects",
-      "Professional pvc signs for business projects"
-    ],
-    "materials": [
-      "3 mm PVC",
-      "6 mm PVC",
-      "12 mm PVC"
-    ],
-    "finishes": [
-      "Matte",
-      "Gloss",
-      "Contour cut",
-      "Rounded corners"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": true
-    },
-    "sizes": [
-      "18 × 24 in",
-      "24 × 36 in",
-      "48 × 96 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–7 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 24,
-      "sqftRate": 5.5,
-      "unitRate": 1.35,
-      "minimum": 35
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "3 mm PVC",
-        "6 mm PVC",
-        "12 mm PVC"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can pvc signs be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "yard-signs",
-      "coroplast-signs",
-      "aluminum-signs"
-    ],
-    "categoryFr": "Panneaux rigides",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–7 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3701/583x357/Plastic-Signs-Product-Image-1-16053.jpg",
-    "imageAlt": "Finished PVC plastic business sign",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/plastic-signs/"
-  },
-  {
-    "id": 6,
-    "slug": "acrylic-signs",
-    "name": "Acrylic Signs",
-    "nameFr": "Plaques en acrylique",
-    "category": "Rigid Signs",
-    "tags": [
-      "Indoor",
-      "Business",
-      "Retail",
-      "Restaurants"
-    ],
-    "description": "Premium architectural signage with polished depth for offices, reception areas, retail and hospitality spaces.",
-    "descriptionFr": "Plaques en acrylique sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional acrylic signs for indoor projects",
-      "Professional acrylic signs for business projects",
-      "Professional acrylic signs for retail projects"
-    ],
-    "materials": [
-      "Clear Acrylic",
-      "White Acrylic",
-      "Frosted Acrylic"
-    ],
-    "finishes": [
-      "Polished edges",
-      "Second-surface print",
-      "Standoffs",
-      "Rounded corners"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "12 × 18 in",
-      "18 × 24 in",
-      "24 × 36 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7–10 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 28,
-      "sqftRate": 5.95,
-      "unitRate": 0.35,
-      "minimum": 45
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Clear Acrylic",
-        "White Acrylic",
-        "Frosted Acrylic"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can acrylic signs be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "yard-signs",
-      "coroplast-signs",
-      "aluminum-signs"
-    ],
-    "categoryFr": "Panneaux rigides",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "7–10 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/sms/Acrylic-Room-Name-16070.jpg",
-    "imageAlt": "Finished acrylic office sign",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/acrylic/"
-  },
-  {
-    "id": 7,
-    "slug": "foam-board",
-    "name": "Foam Board",
-    "nameFr": "Panneaux en carton plume",
-    "category": "Rigid Signs",
-    "tags": [
-      "Indoor",
-      "Business",
-      "Events",
-      "Retail",
-      "Schools",
-      "Trade Shows"
-    ],
-    "description": "Lightweight presentation boards for events, meetings, retail displays, photography and indoor promotions.",
-    "descriptionFr": "Panneaux en carton plume sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional foam board for indoor projects",
-      "Professional foam board for business projects",
-      "Professional foam board for events projects"
-    ],
-    "materials": [
-      "3/16 in Foam Board",
-      "1/2 in Foam Board"
-    ],
-    "finishes": [
-      "Matte",
-      "Gloss",
-      "Contour cut",
-      "Easel-ready"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "18 × 24 in",
-      "24 × 36 in",
-      "36 × 48 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3–5 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 32,
-      "sqftRate": 3.25,
-      "unitRate": 0.55,
-      "minimum": 55
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "3/16 in Foam Board",
-        "1/2 in Foam Board"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can foam board be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "yard-signs",
-      "coroplast-signs",
-      "aluminum-signs"
-    ],
-    "categoryFr": "Panneaux rigides",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "3–5 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/sms/Foamboard-chart-display-10937.jpg",
-    "imageAlt": "Finished foam board display sign",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/foamboard/"
-  },
-  {
-    "id": 8,
-    "slug": "posters",
-    "name": "Posters",
-    "nameFr": "Affiches grand format",
-    "category": "Prints & Décor",
-    "tags": [
-      "Indoor",
-      "Business",
-      "Events",
-      "Retail",
-      "Restaurants",
-      "Schools"
-    ],
-    "description": "Crisp large-format posters for promotions, menus, announcements, displays and visual campaigns.",
-    "descriptionFr": "Affiches grand format sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional posters for indoor projects",
-      "Professional posters for business projects",
-      "Professional posters for events projects"
-    ],
-    "materials": [
-      "Satin Poster Paper",
-      "Gloss Poster Paper",
-      "Matte Art Paper"
-    ],
-    "finishes": [
-      "Matte",
-      "Gloss",
-      "Mounted option"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "11 × 17 in",
-      "18 × 24 in",
-      "24 × 36 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "2–4 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 36,
-      "sqftRate": 3.7,
-      "unitRate": 0.75,
-      "minimum": 65
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Satin Poster Paper",
-        "Gloss Poster Paper",
-        "Matte Art Paper"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can posters be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "canvas-prints"
-    ],
-    "categoryFr": "Affiches et décoration",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "2–4 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3331/Standard-Poster-460x350-16050.jpg",
-    "imageAlt": "Finished printed poster display",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/posters/"
-  },
-  {
-    "id": 9,
-    "slug": "window-graphics",
-    "name": "Window Graphics",
-    "nameFr": "Habillage de vitrine",
-    "category": "Window & Wall",
-    "tags": [
-      "Indoor",
-      "Outdoor",
-      "Business",
-      "Retail",
-      "Restaurants"
-    ],
-    "description": "Custom window branding that turns glass into an informative, promotional or privacy-enhancing surface.",
-    "descriptionFr": "Habillage de vitrine sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional window graphics for indoor projects",
-      "Professional window graphics for outdoor projects",
-      "Professional window graphics for business projects"
-    ],
-    "materials": [
-      "Opaque Adhesive Vinyl",
-      "Translucent Vinyl",
-      "Clear Printed Vinyl"
-    ],
-    "finishes": [
-      "Matte laminate",
-      "Gloss laminate",
-      "Contour cut"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": true
-    },
-    "sizes": [
-      "Custom by window"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–7 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 40,
-      "sqftRate": 4.15,
-      "unitRate": 0.9500000000000001,
-      "minimum": 75
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Opaque Adhesive Vinyl",
-        "Translucent Vinyl",
-        "Clear Printed Vinyl"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can window graphics be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "window-perforated-vinyl",
-      "window-clings",
-      "wall-graphics"
-    ],
-    "categoryFr": "Vitrines et murs",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–7 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/1243/Custom-Window-Decals-ClearDecal-420x348-7817.jpg",
-    "imageAlt": "Finished storefront window graphic",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/window-decals/"
-  },
-  {
-    "id": 10,
-    "slug": "window-perforated-vinyl",
-    "name": "Window Perforated Vinyl",
-    "nameFr": "Adhésif microperforé pour vitrine",
-    "category": "Window & Wall",
-    "tags": [
-      "Outdoor",
-      "Business",
-      "Retail",
-      "Restaurants",
-      "Vehicle"
-    ],
-    "description": "See-through window graphics that create exterior impact while preserving visibility from inside.",
-    "descriptionFr": "Adhésif microperforé pour vitrine sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional window perforated vinyl for outdoor projects",
-      "Professional window perforated vinyl for business projects",
-      "Professional window perforated vinyl for retail projects"
-    ],
-    "materials": [
-      "50/50 Perforated Vinyl",
-      "70/30 Perforated Vinyl"
-    ],
-    "finishes": [
-      "Optically clear laminate",
-      "Contour trim"
-    ],
-    "suitability": {
-      "indoor": false,
-      "outdoor": true
-    },
-    "sizes": [
-      "Custom by window"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–7 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 24,
-      "sqftRate": 4.6,
-      "unitRate": 1.15,
-      "minimum": 35
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "50/50 Perforated Vinyl",
-        "70/30 Perforated Vinyl"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can window perforated vinyl be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "window-graphics",
-      "window-clings",
-      "wall-graphics"
-    ],
-    "categoryFr": "Vitrines et murs",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–7 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/2994/583x357/Perforated-Window-Decal-Fitness-Center-SQS-11642%20%281%29.jpg",
-    "imageAlt": "Perforated window vinyl installed on storefront glass",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/perforated-window-decals/"
-  },
-  {
-    "id": 11,
-    "slug": "window-clings",
-    "name": "Window Clings",
-    "nameFr": "Vitrophanie électrostatique",
-    "category": "Window & Wall",
-    "tags": [
-      "Indoor",
-      "Business",
-      "Events",
-      "Retail",
-      "Restaurants"
-    ],
-    "description": "Reusable, adhesive-free graphics for seasonal promotions, temporary messages and changing storefront displays.",
-    "descriptionFr": "Vitrophanie électrostatique sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional window clings for indoor projects",
-      "Professional window clings for business projects",
-      "Professional window clings for events projects"
-    ],
-    "materials": [
-      "Clear Static Cling",
-      "White Static Cling"
-    ],
-    "finishes": [
-      "Inside-facing print",
-      "Outside-facing print",
-      "Contour cut"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "12 × 18 in",
-      "18 × 24 in",
-      "Custom"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3–5 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 28,
-      "sqftRate": 5.05,
-      "unitRate": 1.35,
-      "minimum": 45
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Clear Static Cling",
-        "White Static Cling"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can window clings be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "window-graphics",
-      "window-perforated-vinyl",
-      "wall-graphics"
-    ],
-    "categoryFr": "Vitrines et murs",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "3–5 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/4147/583x357/clear-window-cling-storefront-sale-16625.jpg",
-    "imageAlt": "Finished window cling applied to storefront glass",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/clear-window-clings/"
-  },
-  {
-    "id": 12,
-    "slug": "wall-graphics",
-    "name": "Wall Graphics",
-    "nameFr": "Adhésifs muraux",
-    "category": "Window & Wall",
-    "tags": [
-      "Indoor",
-      "Business",
-      "Retail",
-      "Restaurants",
-      "Schools"
-    ],
-    "description": "Branded murals, statements and environmental graphics designed around the scale and texture of your space.",
-    "descriptionFr": "Adhésifs muraux sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional wall graphics for indoor projects",
-      "Professional wall graphics for business projects",
-      "Professional wall graphics for retail projects"
-    ],
-    "materials": [
-      "Removable Wall Vinyl",
-      "Permanent Wall Vinyl",
-      "Textured-Surface Film"
-    ],
-    "finishes": [
-      "Matte laminate",
-      "Contour cut",
-      "Panel installation"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "Custom by wall"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–10 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 32,
-      "sqftRate": 5.5,
-      "unitRate": 0.35,
-      "minimum": 55
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Removable Wall Vinyl",
-        "Permanent Wall Vinyl",
-        "Textured-Surface Film"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can wall graphics be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "window-graphics",
-      "window-perforated-vinyl",
-      "window-clings"
-    ],
-    "categoryFr": "Vitrines et murs",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–10 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3845/583x357/Wall-decal-gym-motivation-sqs-10825.jpg",
-    "imageAlt": "Finished wall graphic installed in an interior space",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/wall-decals/"
-  },
-  {
-    "id": 13,
-    "slug": "floor-graphics",
-    "name": "Floor Graphics",
-    "nameFr": "Adhésifs de sol",
-    "category": "Window & Wall",
-    "tags": [
-      "Indoor",
-      "Outdoor",
-      "Business",
-      "Events",
-      "Retail",
-      "Schools"
-    ],
-    "description": "Durable directional and promotional graphics engineered for foot traffic and visual wayfinding.",
-    "descriptionFr": "Adhésifs de sol sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional floor graphics for indoor projects",
-      "Professional floor graphics for outdoor projects",
-      "Professional floor graphics for business projects"
-    ],
-    "materials": [
-      "Indoor Floor Vinyl",
-      "Outdoor Pavement Film"
-    ],
-    "finishes": [
-      "Anti-slip laminate",
-      "Contour cut"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": true
-    },
-    "sizes": [
-      "12 × 12 in",
-      "24 × 24 in",
-      "Custom"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–7 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 36,
-      "sqftRate": 5.95,
-      "unitRate": 0.55,
-      "minimum": 65
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Indoor Floor Vinyl",
-        "Outdoor Pavement Film"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can floor graphics be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "window-graphics",
-      "window-perforated-vinyl",
-      "window-clings"
-    ],
-    "categoryFr": "Vitrines et murs",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–7 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/2937/583x357/775x475-Floor-Decal-Mock-13596.jpg",
-    "imageAlt": "Finished floor graphic decal in a retail environment",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/floor-decals/"
-  },
-  {
-    "id": 14,
-    "slug": "vehicle-magnets",
-    "name": "Vehicle Magnets",
-    "nameFr": "Plaques magnétiques pour véhicule",
-    "category": "Vehicle Graphics",
-    "tags": [
-      "Outdoor",
-      "Business",
-      "Vehicle"
-    ],
-    "description": "Removable vehicle identification for contractors, delivery teams, service businesses and temporary promotions.",
-    "descriptionFr": "Plaques magnétiques pour véhicule sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional vehicle magnets for outdoor projects",
-      "Professional vehicle magnets for business projects",
-      "Professional vehicle magnets for vehicle projects"
-    ],
-    "materials": [
-      "30 mil Magnetic Sheeting"
-    ],
-    "finishes": [
-      "Gloss laminate",
-      "Rounded corners"
-    ],
-    "suitability": {
-      "indoor": false,
-      "outdoor": true
-    },
-    "sizes": [
-      "12 × 24 in",
-      "18 × 24 in",
-      "24 × 36 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3–5 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 40,
-      "sqftRate": 3.25,
-      "unitRate": 0.75,
-      "minimum": 75
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "30 mil Magnetic Sheeting"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can vehicle magnets be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "vehicle-lettering",
-      "partial-vehicle-wraps",
-      "full-vehicle-wraps"
-    ],
-    "categoryFr": "Marquage de véhicules",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "3–5 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3682/583x357/standard-1-15055.jpg",
-    "imageAlt": "Finished vehicle magnet applied to a car door",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/car-magnets/"
-  },
-  {
-    "id": 15,
-    "slug": "vehicle-lettering",
-    "name": "Vehicle Lettering",
-    "nameFr": "Lettrage adhésif pour véhicule",
-    "category": "Vehicle Graphics",
-    "tags": [
-      "Outdoor",
-      "Business",
-      "Vehicle"
-    ],
-    "description": "Clean names, contact details and brand marks sized and installed for everyday mobile visibility.",
-    "descriptionFr": "Lettrage adhésif pour véhicule sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional vehicle lettering for outdoor projects",
-      "Professional vehicle lettering for business projects",
-      "Professional vehicle lettering for vehicle projects"
-    ],
-    "materials": [
-      "High-Performance Cut Vinyl",
-      "Printed Adhesive Vinyl"
-    ],
-    "finishes": [
-      "Matte",
-      "Gloss",
-      "Reflective option"
-    ],
-    "suitability": {
-      "indoor": false,
-      "outdoor": true
-    },
-    "sizes": [
-      "Custom by vehicle"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–7 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 24,
-      "sqftRate": 3.7,
-      "unitRate": 0.9500000000000001,
-      "minimum": 35
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "High-Performance Cut Vinyl",
-        "Printed Adhesive Vinyl"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can vehicle lettering be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "vehicle-magnets",
-      "partial-vehicle-wraps",
-      "full-vehicle-wraps"
-    ],
-    "categoryFr": "Marquage de véhicules",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–7 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/4029/583x357/Car-Truck-Lettering-Product-Image-1-16438.jpg",
-    "imageAlt": "Finished vinyl lettering applied to a work vehicle",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/car-and-truck-lettering/"
-  },
-  {
-    "id": 16,
-    "slug": "partial-vehicle-wraps",
-    "name": "Partial Vehicle Wraps",
-    "nameFr": "Semi-covering de véhicule",
-    "category": "Vehicle Graphics",
-    "tags": [
-      "Outdoor",
-      "Business",
-      "Vehicle"
-    ],
-    "description": "Strategic wrap coverage that adds strong brand presence without covering the entire vehicle.",
-    "descriptionFr": "Semi-covering de véhicule sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional partial vehicle wraps for outdoor projects",
-      "Professional partial vehicle wraps for business projects",
-      "Professional partial vehicle wraps for vehicle projects"
-    ],
-    "materials": [
-      "Premium Cast Wrap Vinyl"
-    ],
-    "finishes": [
-      "Gloss laminate",
-      "Matte laminate",
-      "Contour coverage"
-    ],
-    "suitability": {
-      "indoor": false,
-      "outdoor": true
-    },
-    "sizes": [
-      "Custom by vehicle"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7–12 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 28,
-      "sqftRate": 4.15,
-      "unitRate": 1.15,
-      "minimum": 45
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Premium Cast Wrap Vinyl"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can partial vehicle wraps be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "vehicle-magnets",
-      "vehicle-lettering",
-      "full-vehicle-wraps"
-    ],
-    "categoryFr": "Marquage de véhicules",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "7–12 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/4076/583x357/Fleet-Graphics-Van-Example-16531.jpg",
-    "imageAlt": "Partial vehicle graphic installed on a commercial van",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/fleet-graphics"
-  },
-  {
-    "id": 17,
-    "slug": "full-vehicle-wraps",
-    "name": "Full Vehicle Wraps",
-    "nameFr": "Covering intégral de véhicule",
-    "category": "Vehicle Graphics",
-    "tags": [
-      "Outdoor",
-      "Business",
-      "Vehicle"
-    ],
-    "description": "Full-surface mobile branding planned around body lines, viewing distance and professional installation.",
-    "descriptionFr": "Covering intégral de véhicule sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional full vehicle wraps for outdoor projects",
-      "Professional full vehicle wraps for business projects",
-      "Professional full vehicle wraps for vehicle projects"
-    ],
-    "materials": [
-      "Premium Cast Wrap Vinyl"
-    ],
-    "finishes": [
-      "Gloss laminate",
-      "Matte laminate",
-      "Satin laminate"
-    ],
-    "suitability": {
-      "indoor": false,
-      "outdoor": true
-    },
-    "sizes": [
-      "Custom by vehicle"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "10–15 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 32,
-      "sqftRate": 4.6,
-      "unitRate": 1.35,
-      "minimum": 55
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Premium Cast Wrap Vinyl"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can full vehicle wraps be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "vehicle-magnets",
-      "vehicle-lettering",
-      "partial-vehicle-wraps"
-    ],
-    "categoryFr": "Marquage de véhicules",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "10–15 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/4076/583x357/Fleet-Graphics-Van-Example-16531.jpg",
-    "imageAlt": "Finished vehicle wrap on a commercial van",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/fleet-graphics"
-  },
-  {
-    "id": 18,
-    "slug": "contour-cut-decals",
-    "name": "Contour Cut Decals",
-    "nameFr": "Adhésifs découpés à la forme",
-    "category": "Decals & Labels",
-    "tags": [
-      "Indoor",
-      "Outdoor",
-      "Business",
-      "Events",
-      "Retail",
-      "Vehicle"
-    ],
-    "description": "Custom-shaped decals with clean edges for equipment, packaging, windows, promotions and branded surfaces.",
-    "descriptionFr": "Adhésifs découpés à la forme sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional contour cut decals for indoor projects",
-      "Professional contour cut decals for outdoor projects",
-      "Professional contour cut decals for business projects"
-    ],
-    "materials": [
-      "White Adhesive Vinyl",
-      "Clear Adhesive Vinyl"
-    ],
-    "finishes": [
-      "Matte laminate",
-      "Gloss laminate",
-      "Custom shape"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": true
-    },
-    "sizes": [
-      "2–24 in custom"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3–5 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 36,
-      "sqftRate": 5.05,
-      "unitRate": 0.35,
-      "minimum": 65
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "White Adhesive Vinyl",
-        "Clear Adhesive Vinyl"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can contour cut decals be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "stickers",
-      "labels"
-    ],
-    "categoryFr": "Adhésifs et étiquettes",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "3–5 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3708/583x357/Custom-Decals-Product-Image-1-16092.jpg",
-    "imageAlt": "Contour cut decals shown as finished printed graphics",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/custom-decals/"
-  },
-  {
-    "id": 19,
-    "slug": "stickers",
-    "name": "Stickers",
-    "nameFr": "Stickers personnalisés",
-    "category": "Decals & Labels",
-    "tags": [
-      "Indoor",
-      "Outdoor",
-      "Business",
-      "Events",
-      "Retail",
-      "Schools"
-    ],
-    "description": "Durable branded stickers for packaging, giveaways, products, events and everyday customer engagement.",
-    "descriptionFr": "Stickers personnalisés sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional stickers for indoor projects",
-      "Professional stickers for outdoor projects",
-      "Professional stickers for business projects"
-    ],
-    "materials": [
-      "White Vinyl",
-      "Clear Vinyl",
-      "Holographic Film"
-    ],
-    "finishes": [
-      "Matte",
-      "Gloss",
-      "Kiss cut",
-      "Die cut"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": true
-    },
-    "sizes": [
-      "2 in",
-      "3 in",
-      "4 in",
-      "Custom"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3–5 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 40,
-      "sqftRate": 5.5,
-      "unitRate": 0.55,
-      "minimum": 75
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "White Vinyl",
-        "Clear Vinyl",
-        "Holographic Film"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can stickers be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "contour-cut-decals",
-      "labels"
-    ],
-    "categoryFr": "Adhésifs et étiquettes",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "3–5 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3708/583x357/Custom-Decals-Product-Image-1-16092.jpg",
-    "imageAlt": "Finished custom stickers and decals",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/custom-decals/"
-  },
-  {
-    "id": 20,
-    "slug": "labels",
-    "name": "Labels",
-    "nameFr": "Étiquettes adhésives",
-    "category": "Decals & Labels",
-    "tags": [
-      "Indoor",
-      "Business",
-      "Retail",
-      "Restaurants"
-    ],
-    "description": "Product and packaging labels designed for clear identification, shelf presence and consistent branding.",
-    "descriptionFr": "Étiquettes adhésives sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional labels for indoor projects",
-      "Professional labels for business projects",
-      "Professional labels for retail projects"
-    ],
-    "materials": [
-      "Paper Label Stock",
-      "BOPP Film",
-      "Clear Film"
-    ],
-    "finishes": [
-      "Matte",
-      "Gloss",
-      "Roll format",
-      "Sheet format"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "Custom shapes and sizes"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–7 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 24,
-      "sqftRate": 5.95,
-      "unitRate": 0.75,
-      "minimum": 35
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Paper Label Stock",
-        "BOPP Film",
-        "Clear Film"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can labels be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "contour-cut-decals",
-      "stickers"
-    ],
-    "categoryFr": "Adhésifs et étiquettes",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–7 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3776/583x357/Roll-labels-bottle-of-hot-sauce-15881.jpg",
-    "imageAlt": "Finished product label applied to packaging",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/roll-labels/"
-  },
-  {
-    "id": 21,
-    "slug": "canvas-prints",
-    "name": "Canvas Prints",
-    "nameFr": "Impressions sur toile",
-    "category": "Prints & Décor",
-    "tags": [
-      "Indoor",
-      "Business",
-      "Events",
-      "Retail",
-      "Restaurants"
-    ],
-    "description": "Gallery-style canvas artwork for offices, homes, restaurants, exhibits and meaningful presentation pieces.",
-    "descriptionFr": "Impressions sur toile sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional canvas prints for indoor projects",
-      "Professional canvas prints for business projects",
-      "Professional canvas prints for events projects"
-    ],
-    "materials": [
-      "Poly-Cotton Canvas"
-    ],
-    "finishes": [
-      "Gallery wrap",
-      "Mirrored edge",
-      "Black edge"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "12 × 18 in",
-      "16 × 20 in",
-      "24 × 36 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–7 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 28,
-      "sqftRate": 3.25,
-      "unitRate": 0.9500000000000001,
-      "minimum": 45
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Poly-Cotton Canvas"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can canvas prints be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "posters"
-    ],
-    "categoryFr": "Affiches et décoration",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–7 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3532/583x357/Canvas-Prints-Product-Image-1-15653.jpg",
-    "imageAlt": "Finished canvas print wall display",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/canvas-prints/"
-  },
-  {
-    "id": 22,
-    "slug": "trade-show-displays",
-    "name": "Trade Show Displays",
-    "nameFr": "Stands et PLV pour salons",
-    "category": "Displays & Events",
-    "tags": [
-      "Indoor",
-      "Business",
-      "Events",
-      "Trade Shows"
-    ],
-    "description": "Coordinated display systems that give your team a polished, organized presence on the show floor.",
-    "descriptionFr": "Stands et PLV pour salons sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional trade show displays for indoor projects",
-      "Professional trade show displays for business projects",
-      "Professional trade show displays for events projects"
-    ],
-    "materials": [
-      "Fabric Graphic",
-      "Rigid Graphic Panels",
-      "Display Hardware"
-    ],
-    "finishes": [
-      "Modular kits",
-      "Carry cases",
-      "Lighting options"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "8 ft",
-      "10 ft",
-      "20 ft systems"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7–12 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 32,
-      "sqftRate": 3.7,
-      "unitRate": 1.15,
-      "minimum": 55
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Fabric Graphic",
-        "Rigid Graphic Panels",
-        "Display Hardware"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can trade show displays be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "retractable-banner-stands",
-      "table-covers",
-      "backdrops"
-    ],
-    "categoryFr": "PLV et événementiel",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "7–12 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3791/583x357/Retractable-Banner-Standard-Product-Features-1-Setup-15966.jpg",
-    "imageAlt": "Finished trade show display setup",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/retractable-banners/"
-  },
-  {
-    "id": 23,
-    "slug": "retractable-banner-stands",
-    "name": "Retractable Banner Stands",
-    "nameFr": "Roll-up publicitaires",
-    "category": "Displays & Events",
-    "tags": [
-      "Indoor",
-      "Business",
-      "Events",
-      "Retail",
-      "Trade Shows"
-    ],
-    "description": "Portable, self-contained display graphics for presentations, lobbies, recruiting and trade shows.",
-    "descriptionFr": "Roll-up publicitaires sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional retractable banner stands for indoor projects",
-      "Professional retractable banner stands for business projects",
-      "Professional retractable banner stands for events projects"
-    ],
-    "materials": [
-      "Premium Display Film",
-      "Blockout Banner Film"
-    ],
-    "finishes": [
-      "Standard base",
-      "Premium base",
-      "Carry case"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "33 × 80 in",
-      "36 × 92 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–7 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 36,
-      "sqftRate": 4.15,
-      "unitRate": 1.35,
-      "minimum": 65
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Premium Display Film",
-        "Blockout Banner Film"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can retractable banner stands be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "trade-show-displays",
-      "table-covers",
-      "backdrops"
-    ],
-    "categoryFr": "PLV et événementiel",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–7 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3791/583x357/Retractable-Banner-Standard-Product-Features-1-Setup-15966.jpg",
-    "imageAlt": "Finished retractable banner stand",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/retractable-banners/"
-  },
-  {
-    "id": 24,
-    "slug": "table-covers",
-    "name": "Table Covers",
-    "nameFr": "Nappes publicitaires",
-    "category": "Displays & Events",
-    "tags": [
-      "Indoor",
-      "Business",
-      "Events",
-      "Schools",
-      "Trade Shows"
-    ],
-    "description": "Branded table presentation for events, registrations, vendor markets, schools and trade-show booths.",
-    "descriptionFr": "Nappes publicitaires sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional table covers for indoor projects",
-      "Professional table covers for business projects",
-      "Professional table covers for events projects"
-    ],
-    "materials": [
-      "Stretch Polyester",
-      "Drape Polyester"
-    ],
-    "finishes": [
-      "Fitted",
-      "Stretch fit",
-      "Open back",
-      "Full back"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "4 ft",
-      "6 ft",
-      "8 ft"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7–10 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 40,
-      "sqftRate": 4.6,
-      "unitRate": 0.35,
-      "minimum": 75
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Stretch Polyester",
-        "Drape Polyester"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can table covers be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "trade-show-displays",
-      "retractable-banner-stands",
-      "backdrops"
-    ],
-    "categoryFr": "PLV et événementiel",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "7–10 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/4227/583x357/Table-Covers-AL-Hero-10927.jpg",
-    "imageAlt": "Finished branded table cover at a display table",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/table-covers/"
-  },
-  {
-    "id": 25,
-    "slug": "feather-flags",
-    "name": "Feather Flags",
-    "nameFr": "Oriflammes plume",
-    "category": "Flags & Outdoor",
-    "tags": [
-      "Outdoor",
-      "Business",
-      "Events",
-      "Retail",
-      "Restaurants"
-    ],
-    "description": "Tall, wind-responsive flags that draw attention to entrances, promotions and event zones.",
-    "descriptionFr": "Oriflammes plume sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional feather flags for outdoor projects",
-      "Professional feather flags for business projects",
-      "Professional feather flags for events projects"
-    ],
-    "materials": [
-      "Knitted Polyester"
-    ],
-    "finishes": [
-      "Single-sided",
-      "Double-sided",
-      "Ground stake",
-      "Cross base"
-    ],
-    "suitability": {
-      "indoor": false,
-      "outdoor": true
-    },
-    "sizes": [
-      "8 ft",
-      "10 ft",
-      "13 ft"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7–10 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 24,
-      "sqftRate": 5.05,
-      "unitRate": 0.55,
-      "minimum": 35
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Knitted Polyester"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can feather flags be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "teardrop-flags"
-    ],
-    "categoryFr": "Oriflammes et extérieur",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "7–10 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/5525/583x357/Feather-Flag-Banner-Product-Image-1-16875.jpg",
-    "imageAlt": "Finished feather flag banner displayed outdoors",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/feather-flags/"
-  },
-  {
-    "id": 26,
-    "slug": "teardrop-flags",
-    "name": "Teardrop Flags",
-    "nameFr": "Oriflammes goutte",
-    "category": "Flags & Outdoor",
-    "tags": [
-      "Outdoor",
-      "Business",
-      "Events",
-      "Retail"
-    ],
-    "description": "Tensioned outdoor flags with a clean profile for branded entrances and high-visibility promotions.",
-    "descriptionFr": "Oriflammes goutte sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional teardrop flags for outdoor projects",
-      "Professional teardrop flags for business projects",
-      "Professional teardrop flags for events projects"
-    ],
-    "materials": [
-      "Knitted Polyester"
-    ],
-    "finishes": [
-      "Single-sided",
-      "Double-sided",
-      "Ground stake",
-      "Cross base"
-    ],
-    "suitability": {
-      "indoor": false,
-      "outdoor": true
-    },
-    "sizes": [
-      "7 ft",
-      "9 ft",
-      "11 ft"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7–10 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 28,
-      "sqftRate": 5.5,
-      "unitRate": 0.75,
-      "minimum": 45
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Knitted Polyester"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can teardrop flags be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "feather-flags"
-    ],
-    "categoryFr": "Oriflammes et extérieur",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "7–10 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/5526/583x357/Teardrop-Flag-Banner-Product-Image-1-16882.jpg",
-    "imageAlt": "Finished teardrop flag banner displayed outdoors",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/teardrop-flags/"
-  },
-  {
-    "id": 27,
-    "slug": "backdrops",
-    "name": "Backdrops",
-    "nameFr": "Fonds de scène et murs d’image",
-    "category": "Displays & Events",
-    "tags": [
-      "Indoor",
-      "Business",
-      "Events",
-      "Schools",
-      "Trade Shows"
-    ],
-    "description": "Photo-ready branded backgrounds for press areas, celebrations, school events and corporate activations.",
-    "descriptionFr": "Fonds de scène et murs d’image sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional backdrops for indoor projects",
-      "Professional backdrops for business projects",
-      "Professional backdrops for events projects"
-    ],
-    "materials": [
-      "Tension Fabric",
-      "Vinyl Banner",
-      "Step-and-Repeat Fabric"
-    ],
-    "finishes": [
-      "Matte",
-      "Wrinkle-resistant",
-      "Frame included"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "8 × 8 ft",
-      "8 × 10 ft",
-      "Custom"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7–10 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 32,
-      "sqftRate": 5.95,
-      "unitRate": 0.9500000000000001,
-      "minimum": 55
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Tension Fabric",
-        "Vinyl Banner",
-        "Step-and-Repeat Fabric"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can backdrops be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "trade-show-displays",
-      "retractable-banner-stands",
-      "table-covers"
-    ],
-    "categoryFr": "PLV et événementiel",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "7–10 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/4235/583x357/Step-and-Repeat-Banner-Product-Image-1-16604.jpg",
-    "imageAlt": "Finished step-and-repeat event backdrop",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/step-and-repeat-banners/"
-  },
-  {
-    "id": 28,
-    "slug": "a-frame-signs",
-    "name": "A-Frame Signs",
-    "nameFr": "Chevalets publicitaires",
-    "category": "Displays & Events",
-    "tags": [
-      "Indoor",
-      "Outdoor",
-      "Business",
-      "Retail",
-      "Restaurants"
-    ],
-    "description": "Portable sidewalk messaging for menus, sales, directions, check-in and daily business communication.",
-    "descriptionFr": "Chevalets publicitaires sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional a-frame signs for indoor projects",
-      "Professional a-frame signs for outdoor projects",
-      "Professional a-frame signs for business projects"
-    ],
-    "materials": [
-      "Plastic A-Frame",
-      "Metal A-Frame",
-      "Changeable Inserts"
-    ],
-    "finishes": [
-      "Single-sided inserts",
-      "Double-sided inserts",
-      "Weighted base"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": true
-    },
-    "sizes": [
-      "24 × 36 in",
-      "28 × 44 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–7 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 36,
-      "sqftRate": 3.25,
-      "unitRate": 1.15,
-      "minimum": 65
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Plastic A-Frame",
-        "Metal A-Frame",
-        "Changeable Inserts"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can a-frame signs be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "trade-show-displays",
-      "retractable-banner-stands",
-      "table-covers"
-    ],
-    "categoryFr": "PLV et événementiel",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–7 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/1602/583x357/A-Frames-Composite-Hero-775x475-14591.jpg",
-    "imageAlt": "Finished A-frame sidewalk sign",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/a-frames/"
-  },
-  {
-    "id": 29,
-    "slug": "real-estate-signs",
-    "name": "Real Estate Signs",
-    "nameFr": "Panneaux immobiliers",
-    "category": "Industry Solutions",
-    "tags": [
-      "Outdoor",
-      "Business",
-      "Real Estate"
-    ],
-    "description": "Property signage systems for listings, open houses, development sites and agent branding.",
-    "descriptionFr": "Panneaux immobiliers sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional real estate signs for outdoor projects",
-      "Professional real estate signs for business projects",
-      "Professional real estate signs for real estate projects"
-    ],
-    "materials": [
-      "Corrugated Plastic",
-      "Aluminum Composite",
-      "PVC"
-    ],
-    "finishes": [
-      "Double-sided",
-      "Rider panels",
-      "Post hardware"
-    ],
-    "suitability": {
-      "indoor": false,
-      "outdoor": true
-    },
-    "sizes": [
-      "18 × 24 in",
-      "24 × 36 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–7 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 40,
-      "sqftRate": 3.7,
-      "unitRate": 1.35,
-      "minimum": 75
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Corrugated Plastic",
-        "Aluminum Composite",
-        "PVC"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can real estate signs be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "construction-site-signs",
-      "directional-signs",
-      "restaurant-graphics"
-    ],
-    "categoryFr": "Solutions métiers",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–7 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3836/583x357/Real-Estate-Signs-Product-Image-1-16164.jpg",
-    "imageAlt": "Finished real estate sign installed outside",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/real-estate-signs/"
-  },
-  {
-    "id": 30,
-    "slug": "construction-site-signs",
-    "name": "Construction Site Signs",
-    "nameFr": "Panneaux de chantier",
-    "category": "Industry Solutions",
+    "category": "Signs",
     "tags": [
       "Outdoor",
       "Business",
       "Construction"
     ],
-    "description": "Durable identification, compliance, safety and project messaging for active construction environments.",
-    "descriptionFr": "Panneaux de chantier sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional construction site signs for outdoor projects",
-      "Professional construction site signs for business projects",
-      "Professional construction site signs for construction projects"
-    ],
+    "mode": "estimate",
+    "from": 65,
+    "unit": "each",
+    "description": "Rigid weather-resistant signage for building identification, parking, directional and long-term outdoor use.",
     "materials": [
-      "Aluminum Composite",
-      "Corrugated Plastic",
-      "Mesh Banner"
+      ".040 Aluminum",
+      "3mm ACM",
+      "6mm ACM"
     ],
-    "finishes": [
-      "Reflective option",
-      "Grommets",
-      "Rounded corners"
-    ],
-    "suitability": {
-      "indoor": false,
-      "outdoor": true
-    },
-    "sizes": [
-      "18 × 24 in",
-      "24 × 36 in",
-      "48 × 96 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–7 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 24,
-      "sqftRate": 4.15,
-      "unitRate": 0.35,
-      "minimum": 35
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Aluminum Composite",
-        "Corrugated Plastic",
-        "Mesh Banner"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can construction site signs be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "real-estate-signs",
-      "directional-signs",
-      "restaurant-graphics"
-    ],
-    "categoryFr": "Solutions métiers",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–7 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3768/Signs-Aluminum-2017-02-2372.png",
-    "imageAlt": "Finished durable jobsite sign",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/aluminum-3/"
-  },
-  {
-    "id": 31,
-    "slug": "directional-signs",
-    "name": "Directional Signs",
-    "nameFr": "Signalétique directionnelle",
-    "category": "Industry Solutions",
-    "tags": [
-      "Indoor",
-      "Outdoor",
-      "Business",
-      "Events",
-      "Construction",
-      "Schools"
-    ],
-    "description": "Clear wayfinding for campuses, events, parking, offices, job sites and temporary traffic flow.",
-    "descriptionFr": "Signalétique directionnelle sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional directional signs for indoor projects",
-      "Professional directional signs for outdoor projects",
-      "Professional directional signs for business projects"
-    ],
-    "materials": [
-      "Corrugated Plastic",
-      "PVC",
-      "Aluminum Composite"
-    ],
-    "finishes": [
-      "Arrows",
-      "Double-sided",
-      "H-stakes",
-      "Hanging hardware"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": true
-    },
     "sizes": [
       "12 × 18 in",
-      "18 × 24 in",
-      "24 × 36 in"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "3–5 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "online",
-    "pricing": {
-      "setup": 28,
-      "sqftRate": 4.6,
-      "unitRate": 0.55,
-      "minimum": 45
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Corrugated Plastic",
-        "PVC",
-        "Aluminum Composite"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can directional signs be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "real-estate-signs",
-      "construction-site-signs",
-      "restaurant-graphics"
-    ],
-    "categoryFr": "Solutions métiers",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "3–5 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3768/Signs-Aluminum-2017-02-2372.png",
-    "imageAlt": "Finished directional sign mounted outdoors",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/aluminum-3/"
-  },
-  {
-    "id": 32,
-    "slug": "restaurant-graphics",
-    "name": "Restaurant Graphics",
-    "nameFr": "Signalétique pour restaurants",
-    "category": "Industry Solutions",
-    "tags": [
-      "Indoor",
-      "Outdoor",
-      "Business",
-      "Retail",
-      "Restaurants"
-    ],
-    "description": "A coordinated graphics package for windows, walls, counters, pickup areas, promotions and customer flow.",
-    "descriptionFr": "Signalétique pour restaurants sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional restaurant graphics for indoor projects",
-      "Professional restaurant graphics for outdoor projects",
-      "Professional restaurant graphics for business projects"
-    ],
-    "materials": [
-      "Window Vinyl",
-      "Wall Vinyl",
-      "Rigid Menu Panels",
-      "Floor Vinyl"
-    ],
-    "finishes": [
-      "Matte laminate",
-      "Anti-slip laminate",
-      "Contour cut"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": true
-    },
-    "sizes": [
-      "Custom by space"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7–12 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 32,
-      "sqftRate": 5.05,
-      "unitRate": 0.75,
-      "minimum": 55
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Window Vinyl",
-        "Wall Vinyl",
-        "Rigid Menu Panels",
-        "Floor Vinyl"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can restaurant graphics be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "real-estate-signs",
-      "construction-site-signs",
-      "directional-signs"
-    ],
-    "categoryFr": "Solutions métiers",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "7–12 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3684/583x357/Aluminum-restaurant-775x475-15035.jpg",
-    "imageAlt": "Finished restaurant sign and graphics",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/restaurant-signs/"
-  },
-  {
-    "id": 33,
-    "slug": "menu-boards",
-    "name": "Menu Boards",
-    "nameFr": "Panneaux menus",
-    "category": "Industry Solutions",
-    "tags": [
-      "Indoor",
-      "Business",
-      "Retail",
-      "Restaurants"
-    ],
-    "description": "Readable, brand-aligned menu systems for restaurants, cafés, food trucks and service counters.",
-    "descriptionFr": "Panneaux menus sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional menu boards for indoor projects",
-      "Professional menu boards for business projects",
-      "Professional menu boards for retail projects"
-    ],
-    "materials": [
-      "PVC",
-      "Aluminum Composite",
-      "Acrylic",
-      "Magnetic Panels"
-    ],
-    "finishes": [
-      "Matte",
-      "Dry-erase laminate",
-      "Changeable panels"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
       "18 × 24 in",
       "24 × 36 in",
       "Custom"
     ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–10 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 36,
-      "sqftRate": 5.5,
-      "unitRate": 0.9500000000000001,
-      "minimum": 65
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "PVC",
-        "Aluminum Composite",
-        "Acrylic",
-        "Magnetic Panels"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can menu boards be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
+    "finishes": [
+      "Rounded Corners",
+      "Drilled Holes",
+      "Reflective Upgrade",
+      "Lamination"
     ],
-    "related": [
-      "real-estate-signs",
-      "construction-site-signs",
-      "directional-signs"
-    ],
-    "categoryFr": "Solutions métiers",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–10 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/4227/583x357/Table-Covers-AL-Hero-10927.jpg",
-    "imageAlt": "Finished menu and hospitality display graphics",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/restaurant-signs/"
+    "lead": "5–7 business days"
   },
   {
-    "id": 34,
-    "slug": "storefront-graphics",
-    "name": "Storefront Graphics",
-    "nameFr": "Habillage de façade commerciale",
-    "category": "Industry Solutions",
+    "id": "pvc-signs",
+    "name": "PVC Signs",
+    "category": "Signs",
     "tags": [
       "Indoor",
-      "Outdoor",
+      "Retail",
+      "Business"
+    ],
+    "mode": "estimate",
+    "from": 58,
+    "unit": "each",
+    "description": "Smooth rigid signage with a premium face for interiors, menus, displays and dimensional applications.",
+    "materials": [
+      "3mm PVC",
+      "6mm PVC",
+      "12mm PVC"
+    ],
+    "sizes": [
+      "12 × 18 in",
+      "18 × 24 in",
+      "24 × 36 in",
+      "Custom"
+    ],
+    "finishes": [
+      "Contour Cut",
+      "Drilled Holes",
+      "Standoff Ready"
+    ],
+    "lead": "5–7 business days"
+  },
+  {
+    "id": "acrylic-signs",
+    "name": "Acrylic Signs",
+    "category": "Signs",
+    "tags": [
+      "Indoor",
+      "Retail",
+      "Business"
+    ],
+    "mode": "quote",
+    "from": null,
+    "unit": "project",
+    "description": "Polished acrylic signage for offices, reception areas, retail interiors and premium branded environments.",
+    "materials": [
+      "Clear Acrylic",
+      "White Acrylic",
+      "Frosted Acrylic"
+    ],
+    "sizes": [
+      "Custom"
+    ],
+    "finishes": [
+      "Second-Surface Print",
+      "Standoffs",
+      "Contour Cut",
+      "Layered Build"
+    ],
+    "lead": "7–10 business days"
+  },
+  {
+    "id": "window-graphics",
+    "name": "Window Graphics",
+    "category": "Graphics & Decals",
+    "tags": [
+      "Retail",
+      "Business",
+      "Indoor",
+      "Outdoor"
+    ],
+    "mode": "quote",
+    "from": null,
+    "unit": "project",
+    "description": "Custom window branding ranging from spot decals to privacy films and full-window promotional graphics.",
+    "materials": [
+      "Adhesive Vinyl",
+      "Perforated Window Film",
+      "Frosted Film",
+      "Static Cling"
+    ],
+    "sizes": [
+      "Custom"
+    ],
+    "finishes": [
+      "Contour Cut",
+      "Lamination",
+      "Install Available"
+    ],
+    "lead": "5–10 business days"
+  },
+  {
+    "id": "wall-graphics",
+    "name": "Wall Graphics",
+    "category": "Graphics & Decals",
+    "tags": [
+      "Indoor",
+      "Retail",
+      "Schools",
+      "Business"
+    ],
+    "mode": "quote",
+    "from": null,
+    "unit": "project",
+    "description": "Interior wall graphics and murals designed for offices, schools, retail spaces and branded environments.",
+    "materials": [
+      "Removable Wall Vinyl",
+      "Permanent Wall Vinyl",
+      "Textured Surface Film"
+    ],
+    "sizes": [
+      "Custom"
+    ],
+    "finishes": [
+      "Matte Lamination",
+      "Contour Cut",
+      "Install Available"
+    ],
+    "lead": "7–12 business days"
+  },
+  {
+    "id": "floor-graphics",
+    "name": "Floor Graphics",
+    "category": "Graphics & Decals",
+    "tags": [
+      "Indoor",
+      "Retail",
+      "Events"
+    ],
+    "mode": "quote",
+    "from": null,
+    "unit": "project",
+    "description": "Slip-resistant promotional and directional graphics for retail, events, facilities and wayfinding.",
+    "materials": [
+      "Indoor Floor Vinyl",
+      "Textured Floor Film"
+    ],
+    "sizes": [
+      "Custom"
+    ],
+    "finishes": [
+      "Anti-Slip Lamination",
+      "Contour Cut",
+      "Install Available"
+    ],
+    "lead": "5–8 business days"
+  },
+  {
+    "id": "decals",
+    "name": "Contour-Cut Decals",
+    "category": "Graphics & Decals",
+    "tags": [
       "Business",
       "Retail",
-      "Restaurants"
+      "Outdoor"
     ],
-    "description": "A unified storefront package that introduces the brand, promotes offers and improves street-level visibility.",
-    "descriptionFr": "Habillage de façade commerciale sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional storefront graphics for indoor projects",
-      "Professional storefront graphics for outdoor projects",
-      "Professional storefront graphics for business projects"
-    ],
+    "mode": "estimate",
+    "from": 38,
+    "unit": "set",
+    "description": "Custom shape-cut decals for equipment, packaging, windows, vehicles and branded applications.",
     "materials": [
-      "Window Vinyl",
-      "Perforated Vinyl",
-      "Cut Lettering",
-      "Wall Film"
+      "Gloss Vinyl",
+      "Matte Vinyl",
+      "Clear Vinyl",
+      "Reflective Vinyl"
+    ],
+    "sizes": [
+      "Custom"
+    ],
+    "finishes": [
+      "Contour Cut",
+      "Transfer Tape",
+      "Lamination"
+    ],
+    "lead": "4–6 business days"
+  },
+  {
+    "id": "vehicle-magnets",
+    "name": "Vehicle Magnets",
+    "category": "Vehicle Graphics",
+    "tags": [
+      "Vehicle",
+      "Business",
+      "Outdoor"
+    ],
+    "mode": "estimate",
+    "from": 72,
+    "unit": "pair",
+    "description": "Removable vehicle branding for service companies, sales teams and temporary fleet identification.",
+    "materials": [
+      "30 mil Magnetic"
+    ],
+    "sizes": [
+      "12 × 24 in",
+      "18 × 24 in",
+      "24 × 36 in",
+      "Custom"
+    ],
+    "finishes": [
+      "Rounded Corners",
+      "Lamination"
+    ],
+    "lead": "4–6 business days"
+  },
+  {
+    "id": "vehicle-lettering",
+    "name": "Vehicle Lettering",
+    "category": "Vehicle Graphics",
+    "tags": [
+      "Vehicle",
+      "Business",
+      "Outdoor"
+    ],
+    "mode": "quote",
+    "from": null,
+    "unit": "project",
+    "description": "Professional cut-vinyl and printed lettering packages for doors, windows, trucks, vans and trailers.",
+    "materials": [
+      "Premium Cast Vinyl",
+      "Reflective Vinyl",
+      "Printed + Laminated Vinyl"
+    ],
+    "sizes": [
+      "Custom"
+    ],
+    "finishes": [
+      "Design Assistance",
+      "Install Available"
+    ],
+    "lead": "7–10 business days"
+  },
+  {
+    "id": "vehicle-wraps",
+    "name": "Vehicle Wraps",
+    "category": "Vehicle Graphics",
+    "tags": [
+      "Vehicle",
+      "Business",
+      "Outdoor"
+    ],
+    "mode": "quote",
+    "from": null,
+    "unit": "project",
+    "description": "Partial and full vehicle wraps engineered as high-impact mobile advertising systems.",
+    "materials": [
+      "Premium Cast Wrap Vinyl"
+    ],
+    "sizes": [
+      "Vehicle Specific"
+    ],
+    "finishes": [
+      "Gloss Laminate",
+      "Matte Laminate",
+      "Satin Laminate",
+      "Professional Installation"
+    ],
+    "lead": "10–15 business days"
+  },
+  {
+    "id": "retractable-banner",
+    "name": "Retractable Banner Stands",
+    "category": "Banners & Displays",
+    "tags": [
+      "Events",
+      "Trade Shows",
+      "Indoor"
+    ],
+    "mode": "order",
+    "from": 165,
+    "unit": "each",
+    "description": "Portable pull-up displays for trade shows, presentations, retail promotions and event activations.",
+    "materials": [
+      "Blockout Display Film",
+      "Premium Polypropylene"
+    ],
+    "sizes": [
+      "33 × 80 in",
+      "36 × 92 in"
+    ],
+    "finishes": [
+      "Standard Base",
+      "Premium Base",
+      "Carry Case"
+    ],
+    "lead": "5–7 business days"
+  },
+  {
+    "id": "backdrops",
+    "name": "Event Backdrops",
+    "category": "Banners & Displays",
+    "tags": [
+      "Events",
+      "Trade Shows",
+      "Indoor"
+    ],
+    "mode": "quote",
+    "from": null,
+    "unit": "project",
+    "description": "Step-and-repeat, tension fabric and large-format branded backdrops for events and activations.",
+    "materials": [
+      "Fabric",
+      "Vinyl",
+      "Tension Fabric"
+    ],
+    "sizes": [
+      "8 × 8 ft",
+      "10 × 8 ft",
+      "Custom"
+    ],
+    "finishes": [
+      "Stand Hardware",
+      "Pole Pockets",
+      "Carry Case"
+    ],
+    "lead": "7–10 business days"
+  },
+  {
+    "id": "flags",
+    "name": "Feather & Teardrop Flags",
+    "category": "Banners & Displays",
+    "tags": [
+      "Outdoor",
+      "Events",
+      "Retail"
+    ],
+    "mode": "order",
+    "from": 185,
+    "unit": "kit",
+    "description": "High-visibility outdoor flags with hardware for storefronts, events and roadside promotions.",
+    "materials": [
+      "Polyester Flag Fabric"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "finishes": [
+      "Ground Spike",
+      "Cross Base",
+      "Water Weight"
+    ],
+    "lead": "5–7 business days"
+  },
+  {
+    "id": "posters",
+    "name": "Posters",
+    "category": "Commercial Print",
+    "tags": [
+      "Indoor",
+      "Events",
+      "Retail",
+      "Schools"
+    ],
+    "mode": "order",
+    "from": 28,
+    "unit": "set",
+    "description": "Sharp full-color posters for retail, events, schools, menus and promotional campaigns.",
+    "materials": [
+      "100# Gloss Text",
+      "100# Cover",
+      "Photo Satin"
+    ],
+    "sizes": [
+      "11 × 17 in",
+      "18 × 24 in",
+      "24 × 36 in"
+    ],
+    "finishes": [
+      "Gloss",
+      "Matte",
+      "Mounted"
+    ],
+    "lead": "2–4 business days"
+  },
+  {
+    "id": "business-cards",
+    "name": "Business Cards",
+    "category": "Commercial Print",
+    "tags": [
+      "Business",
+      "Retail"
+    ],
+    "mode": "order",
+    "from": 45,
+    "unit": "set",
+    "description": "Professional business cards with premium stocks and finishing for a polished first impression.",
+    "materials": [
+      "16pt Cover",
+      "18pt Soft Touch",
+      "32pt Uncoated"
+    ],
+    "sizes": [
+      "3.5 × 2 in"
     ],
     "finishes": [
       "Matte",
       "Gloss",
-      "Contour cut",
-      "Protective laminate"
+      "Soft Touch",
+      "Rounded Corners"
     ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": true
-    },
-    "sizes": [
-      "Custom by storefront"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7–12 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 40,
-      "sqftRate": 5.95,
-      "unitRate": 1.15,
-      "minimum": 75
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Window Vinyl",
-        "Perforated Vinyl",
-        "Cut Lettering",
-        "Wall Film"
-      ],
-      "thickness": [
-        "Standard",
-        "Premium",
-        "Heavy-duty"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can storefront graphics be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "real-estate-signs",
-      "construction-site-signs",
-      "directional-signs"
-    ],
-    "categoryFr": "Solutions métiers",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "7–12 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/2994/583x357/Perforated-Window-Decal-Fitness-Center-SQS-11642%20%281%29.jpg",
-    "imageAlt": "Finished storefront window graphics",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/perforated-window-decals/"
+    "lead": "3–5 business days"
   },
   {
-    "id": 35,
-    "slug": "screen-printing",
+    "id": "brochures",
+    "name": "Brochures & Flyers",
+    "category": "Commercial Print",
+    "tags": [
+      "Business",
+      "Events",
+      "Retail"
+    ],
+    "mode": "order",
+    "from": 85,
+    "unit": "set",
+    "description": "Marketing flyers, folded brochures and handouts for sales, events, menus and information campaigns.",
+    "materials": [
+      "100# Gloss Text",
+      "100# Matte Text",
+      "80# Uncoated"
+    ],
+    "sizes": [
+      "8.5 × 11 in",
+      "11 × 17 in",
+      "Custom"
+    ],
+    "finishes": [
+      "Tri-Fold",
+      "Half-Fold",
+      "Z-Fold",
+      "No Fold"
+    ],
+    "lead": "3–5 business days"
+  },
+  {
+    "id": "screen-printing",
     "name": "Screen Printing",
-    "nameFr": "Sérigraphie textile",
-    "category": "Apparel & Promo",
+    "category": "Apparel & Embroidery",
     "tags": [
-      "Business",
-      "Events",
+      "Apparel",
       "Schools",
-      "Restaurants"
+      "Events",
+      "Business"
     ],
-    "description": "Durable apparel printing for teams, businesses, brands, events and organizations that need consistent production.",
-    "descriptionFr": "Sérigraphie textile sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional screen printing for business projects",
-      "Professional screen printing for events projects",
-      "Professional screen printing for schools projects"
-    ],
+    "mode": "quote",
+    "from": null,
+    "unit": "project",
+    "description": "Durable multi-color screen printing for tees, hoodies, uniforms, events and merchandise runs.",
     "materials": [
-      "Cotton Tees",
-      "Performance Apparel",
-      "Hoodies",
-      "Workwear"
+      "Customer Garments",
+      "MA2K-Sourced Garments"
+    ],
+    "sizes": [
+      "Youth–5XL"
     ],
     "finishes": [
-      "Standard ink",
-      "Soft-hand ink",
-      "Specialty ink"
+      "Front",
+      "Back",
+      "Sleeve",
+      "Specialty Ink"
     ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "Youth–5XL",
-      "Custom garment selection"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7–10 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 24,
-      "sqftRate": 3.25,
-      "unitRate": 1.35,
-      "minimum": 35
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Cotton Tees",
-        "Performance Apparel",
-        "Hoodies",
-        "Workwear"
-      ],
-      "thickness": [
-        "Standard garment",
-        "Premium garment"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can screen printing be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "embroidery",
-      "dtf-printing",
-      "heat-transfer-vinyl"
-    ],
-    "categoryFr": "Textile et objets publicitaires",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "7–10 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://www.customink.com/mms/images/catalog/styles/110600/catalog_detail_image_large.jpg",
-    "imageAlt": "Finished custom printed t-shirt example",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.customink.com/products/t-shirts/4"
+    "lead": "7–10 business days"
   },
   {
-    "id": 36,
-    "slug": "embroidery",
+    "id": "embroidery",
     "name": "Embroidery",
-    "nameFr": "Broderie textile",
-    "category": "Apparel & Promo",
+    "category": "Apparel & Embroidery",
     "tags": [
+      "Apparel",
       "Business",
-      "Events",
-      "Schools",
-      "Restaurants"
-    ],
-    "description": "Premium thread decoration for uniforms, hats, outerwear and professional branded apparel.",
-    "descriptionFr": "Broderie textile sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional embroidery for business projects",
-      "Professional embroidery for events projects",
-      "Professional embroidery for schools projects"
-    ],
-    "materials": [
-      "Polos",
-      "Hats",
-      "Jackets",
-      "Workwear"
-    ],
-    "finishes": [
-      "Standard thread",
-      "Metallic thread",
-      "3D puff"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "Custom garment selection"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7–12 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 28,
-      "sqftRate": 3.7,
-      "unitRate": 0.35,
-      "minimum": 45
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Polos",
-        "Hats",
-        "Jackets",
-        "Workwear"
-      ],
-      "thickness": [
-        "Standard garment",
-        "Premium garment"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can embroidery be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "screen-printing",
-      "dtf-printing",
-      "heat-transfer-vinyl"
-    ],
-    "categoryFr": "Textile et objets publicitaires",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "7–12 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://cdn.shopify.com/s/files/1/0751/9302/4794/files/embroidered-polo-shirts-caps-jackets-with-logo_480x480.jpg?v=1760322137",
-    "imageAlt": "Finished embroidered polos, caps and jackets",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://simplymerchandise.com.au/pages/custom-embroidery-logo-services"
-  },
-  {
-    "id": 37,
-    "slug": "dtf-printing",
-    "name": "DTF Printing",
-    "nameFr": "Impression DTF",
-    "category": "Apparel & Promo",
-    "tags": [
-      "Business",
-      "Events",
       "Schools"
     ],
-    "description": "Full-color apparel decoration for detailed artwork, smaller runs and flexible garment choices.",
-    "descriptionFr": "Impression DTF sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional dtf printing for business projects",
-      "Professional dtf printing for events projects",
-      "Professional dtf printing for schools projects"
-    ],
+    "mode": "quote",
+    "from": null,
+    "unit": "project",
+    "description": "Professional embroidery for hats, polos, jackets, uniforms, bags and premium branded apparel.",
     "materials": [
-      "Cotton Apparel",
-      "Polyester Apparel",
+      "Hats",
+      "Polos",
+      "Jackets",
+      "Bags",
+      "Customer Garments"
+    ],
+    "sizes": [
+      "Standard Placements",
+      "Custom"
+    ],
+    "finishes": [
+      "Left Chest",
+      "Hat Front",
+      "Side",
+      "Back",
+      "Patch"
+    ],
+    "lead": "7–10 business days"
+  },
+  {
+    "id": "dtf",
+    "name": "DTF Transfers",
+    "category": "Apparel & Embroidery",
+    "tags": [
+      "Apparel",
+      "Events",
+      "Business"
+    ],
+    "mode": "estimate",
+    "from": 75,
+    "unit": "project",
+    "description": "Full-color direct-to-film decoration ideal for small runs, detailed art and flexible garment quantities.",
+    "materials": [
+      "Cotton",
+      "Polyester",
       "Blends"
     ],
-    "finishes": [
-      "Full color",
-      "White underbase",
-      "Small-batch production"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
     "sizes": [
-      "Youth–5XL",
-      "Custom garment selection"
+      "Pocket",
+      "Standard Front",
+      "Oversized"
     ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–8 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 32,
-      "sqftRate": 4.15,
-      "unitRate": 0.55,
-      "minimum": 55
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Cotton Apparel",
-        "Polyester Apparel",
-        "Blends"
-      ],
-      "thickness": [
-        "Standard garment",
-        "Premium garment"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can dtf printing be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
+    "finishes": [
+      "Front",
+      "Back",
+      "Sleeve"
     ],
-    "related": [
-      "screen-printing",
-      "embroidery",
-      "heat-transfer-vinyl"
-    ],
-    "categoryFr": "Textile et objets publicitaires",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–8 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://assets.stahls.com/stahls/content/images/landing-pages/cad-cut-category/PopularUses-HTV.webp",
-    "imageAlt": "Finished full-color heat-transfer apparel examples",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.stahls.com/heat-transfer-vinyl"
+    "lead": "5–7 business days"
   },
   {
-    "id": 38,
-    "slug": "heat-transfer-vinyl",
-    "name": "Heat Transfer Vinyl",
-    "nameFr": "Marquage textile en flex",
-    "category": "Apparel & Promo",
+    "id": "promo-products",
+    "name": "Promotional Products",
+    "category": "Promotional Products",
     "tags": [
       "Business",
       "Events",
       "Schools"
     ],
-    "description": "Crisp personalization for names, numbers, uniforms and short-run custom apparel.",
-    "descriptionFr": "Marquage textile en flex sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional heat transfer vinyl for business projects",
-      "Professional heat transfer vinyl for events projects",
-      "Professional heat transfer vinyl for schools projects"
-    ],
-    "materials": [
-      "Standard HTV",
-      "Stretch HTV",
-      "Reflective HTV"
-    ],
-    "finishes": [
-      "Names",
-      "Numbers",
-      "Custom cut graphics"
-    ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
-    "sizes": [
-      "Youth–5XL",
-      "Custom garment selection"
-    ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "5–8 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 36,
-      "sqftRate": 4.6,
-      "unitRate": 0.75,
-      "minimum": 65
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Standard HTV",
-        "Stretch HTV",
-        "Reflective HTV"
-      ],
-      "thickness": [
-        "Standard garment",
-        "Premium garment"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can heat transfer vinyl be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
-    ],
-    "related": [
-      "screen-printing",
-      "embroidery",
-      "dtf-printing"
-    ],
-    "categoryFr": "Textile et objets publicitaires",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "5–8 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://assets.stahls.com/stahls/content/images/landing-pages/cad-cut-category/WhyChoose-HTV.webp",
-    "imageAlt": "Finished heat-transfer vinyl apparel applications",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.stahls.com/heat-transfer-vinyl"
-  },
-  {
-    "id": 39,
-    "slug": "promotional-products",
-    "name": "Promotional Products",
-    "nameFr": "Objets publicitaires personnalisés",
-    "category": "Apparel & Promo",
-    "tags": [
-      "Business",
-      "Events",
-      "Schools",
-      "Trade Shows"
-    ],
-    "description": "Useful branded merchandise selected around your audience, campaign and distribution plan.",
-    "descriptionFr": "Objets publicitaires personnalisés sur mesure pour entreprises, commerces, associations, établissements scolaires, événements et projets professionnels. Choisissez le support, les dimensions et les finitions adaptés à l’usage, puis transmettez votre fichier pour étude et devis.",
-    "useCases": [
-      "Professional promotional products for business projects",
-      "Professional promotional products for events projects",
-      "Professional promotional products for schools projects"
-    ],
+    "mode": "quote",
+    "from": null,
+    "unit": "project",
+    "description": "Branded giveaways and practical promotional goods sourced around your audience, quantity and budget.",
     "materials": [
       "Drinkware",
       "Bags",
-      "Office Items",
-      "Event Giveaways"
+      "Pens",
+      "Tech",
+      "Event Items"
+    ],
+    "sizes": [
+      "Varies"
     ],
     "finishes": [
-      "Screen print",
-      "Pad print",
-      "Laser engraving",
+      "Print",
+      "Laser Engrave",
       "Embroidery"
     ],
-    "suitability": {
-      "indoor": true,
-      "outdoor": false
-    },
+    "lead": "10–15 business days"
+  },
+  {
+    "id": "real-estate-package",
+    "name": "Real Estate Sign Package",
+    "category": "Industry Packages",
+    "tags": [
+      "Real Estate",
+      "Outdoor",
+      "Business"
+    ],
+    "mode": "quote",
+    "from": null,
+    "unit": "package",
+    "description": "A coordinated package combining property signs, riders, posts, directional signs and marketing print.",
+    "materials": [
+      "Coroplast",
+      "Aluminum",
+      "PVC",
+      "Print"
+    ],
     "sizes": [
-      "Product dependent"
+      "Package Based"
     ],
-    "customSizing": "Custom dimensions are available. Final feasibility depends on material, finishing and installation requirements.",
-    "timeline": "7–15 business days",
-    "care": "Clean gently with a soft cloth and mild soap. Avoid abrasive chemicals, sharp folds and prolonged improper storage.",
-    "orderMode": "quote",
-    "pricing": {
-      "setup": 40,
-      "sqftRate": 5.05,
-      "unitRate": 0.9500000000000001,
-      "minimum": 75
-    },
-    "config": {
-      "width": true,
-      "height": true,
-      "quantity": true,
-      "materials": [
-        "Drinkware",
-        "Bags",
-        "Office Items",
-        "Event Giveaways"
-      ],
-      "thickness": [
-        "Standard garment",
-        "Premium garment"
-      ],
-      "sides": [
-        "Single-sided",
-        "Double-sided"
-      ],
-      "lamination": [
-        "None",
-        "Matte",
-        "Gloss"
-      ],
-      "cuts": [
-        "Square / rectangle",
-        "Contour cut",
-        "Kiss cut"
-      ],
-      "grommets": [
-        "None",
-        "Every 2 ft",
-        "Every 3 ft",
-        "Four corners"
-      ],
-      "polePockets": [
-        "None",
-        "Top",
-        "Top and bottom"
-      ],
-      "roundedCorners": [
-        "No",
-        "Yes"
-      ],
-      "hardware": [
-        "None",
-        "Standard hanging kit",
-        "Premium mounting kit"
-      ],
-      "installation": [
-        "No installation",
-        "Local installation review"
-      ],
-      "rush": [
-        "Standard production",
-        "Rush review requested"
-      ]
-    },
-    "faqs": [
-      {
-        "q": "Can promotional products be made in a custom size?",
-        "a": "Yes. Enter your target dimensions in the configurator and MA2K will confirm material and production limits."
-      },
-      {
-        "q": "Can MA2K review my artwork before production?",
-        "a": "Yes. Every submitted file is reviewed for resolution, dimensions, color setup and production readiness."
-      },
-      {
-        "q": "Is installation available?",
-        "a": "Installation is available for qualifying local projects and is reviewed based on surface, access and project scope."
-      }
+    "finishes": [
+      "Posts",
+      "Riders",
+      "Directional Set"
     ],
-    "related": [
-      "screen-printing",
-      "embroidery",
-      "dtf-printing"
+    "lead": "7–10 business days"
+  },
+  {
+    "id": "event-package",
+    "name": "Event Brand Package",
+    "category": "Industry Packages",
+    "tags": [
+      "Events",
+      "Trade Shows"
     ],
-    "categoryFr": "Textile et objets publicitaires",
-    "customSizingFr": "Fabrication sur mesure disponible. Les dimensions finales dépendent du support, des finitions, du façonnage et des contraintes de pose.",
-    "timelineFr": "7–15 jours ouvrés",
-    "careFr": "Nettoyer avec un chiffon doux et un produit non abrasif. Respecter les recommandations de stockage, de pose et d’entretien propres au support.",
-    "artworkFr": "Fichier PDF vectoriel recommandé. Images à 150 dpi minimum au format final pour le grand format, 300 dpi pour les petits formats. Polices vectorisées, fonds perdus et traits de coupe selon le produit. Un BAT peut être transmis avant fabrication.",
-    "image": "https://s1-ecp.signs.com/3776/583x357/Roll-labels-bottle-of-hot-sauce-15881.jpg",
-    "imageAlt": "Finished branded promotional product example",
-    "mediaStatus": "direct-finished-example",
-    "imageSourcePage": "https://www.signs.com/roll-labels/"
+    "mode": "quote",
+    "from": null,
+    "unit": "package",
+    "description": "One coordinated procurement path for backdrops, banners, table covers, signage, apparel and handouts.",
+    "materials": [
+      "Mixed"
+    ],
+    "sizes": [
+      "Custom"
+    ],
+    "finishes": [
+      "Design Coordination",
+      "Bundled Production"
+    ],
+    "lead": "10–15 business days"
   }
 ]
