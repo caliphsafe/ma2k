@@ -24,3 +24,5 @@ IMPORTANT:
 The Vinyl Banners mapping uses the filename shown in your repository/screenshot:
 assets/images/products/vvnyilbanner.png
 If the actual repository filename is spelled differently, rename that image to vvnyilbanner.png or update the image path in data/products.js.
+
+UPDATE: Product imagery now uses consistent 1:1 square containers on catalog cards and product pages. PNGs remain fully visible with object-fit: contain and are never stretched.
