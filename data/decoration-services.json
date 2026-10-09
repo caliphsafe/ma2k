@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "screen-printing",
+    "name": "Screen Printing",
+    "shortName": "Screen print",
+    "kicker": "Ink / texture / impact",
+    "description": "Bold, tactile ink for collections, merch drops, teams, workwear and the kind of apparel people keep reaching for.",
+    "image": "assets/images/services/screen-printing.jpg",
+    "page": "screen-printing.html"
+  },
+  {
+    "slug": "embroidery",
+    "name": "Embroidery",
+    "shortName": "Embroidery",
+    "kicker": "Thread / depth / detail",
+    "description": "Raised texture and lasting structure for caps, polos, jackets, bags, uniforms and workwear.",
+    "image": "assets/images/services/embroidery.jpg",
+    "page": "embroidery.html"
+  },
+  {
+    "slug": "dtf-printing",
+    "name": "DTF Printing",
+    "shortName": "DTF",
+    "kicker": "Full color / fine detail",
+    "description": "Vivid full-color artwork and flexible quantities for detailed graphics, names, numbers and short runs.",
+    "image": "assets/images/products/dtf-printing.webp",
+    "page": "dtf-printing.html"
+  }
+]
