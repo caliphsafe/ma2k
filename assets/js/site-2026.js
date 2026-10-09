@@ -23,6 +23,12 @@
     element.textContent = String(new Date().getFullYear());
   });
 
+  const currentPage = window.location.pathname.split('/').pop() || 'index.html';
+  document.querySelectorAll('.desktop-nav a, .mobile-nav a').forEach((link) => {
+    const linkPage = link.getAttribute('href').split('#')[0];
+    if (linkPage === currentPage) link.setAttribute('aria-current', 'page');
+  });
+
   const revealItems = document.querySelectorAll('[data-reveal]');
   if ('IntersectionObserver' in window && revealItems.length) {
     const observer = new IntersectionObserver((entries, currentObserver) => {
