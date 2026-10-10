@@ -4,6 +4,11 @@
   const mobileNav = document.querySelector('[data-mobile-nav]');
 
   if (toggle && mobileNav) {
+    const closeMenu = () => {
+      mobileNav.classList.remove('is-open');
+      toggle.setAttribute('aria-expanded', 'false');
+      body.classList.remove('is-menu-open');
+    };
     toggle.addEventListener('click', () => {
       const open = mobileNav.classList.toggle('is-open');
       toggle.setAttribute('aria-expanded', String(open));
@@ -16,6 +21,15 @@
         toggle.setAttribute('aria-expanded', 'false');
         body.classList.remove('is-menu-open');
       });
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && mobileNav.classList.contains('is-open')) {
+        closeMenu();
+        toggle.focus();
+      }
+    });
+    window.matchMedia('(min-width: 1101px)').addEventListener('change', (event) => {
+      if (event.matches) closeMenu();
     });
   }
 
@@ -53,6 +67,10 @@
       dtf: 'DTF printing',
       'dtf-printing': 'DTF printing'
     };
-    methodNote.textContent = (labels[method] || method) + ' selected. Add the garment, artwork and timing you have in mind.';
+    if (labels[method]) {
+      methodNote.textContent = labels[method] + ' selected. Add the garment, artwork and timing you have in mind.';
+      const methodSelect = document.querySelector('#project-method');
+      if (methodSelect) methodSelect.value = labels[method];
+    }
   }
 })();
